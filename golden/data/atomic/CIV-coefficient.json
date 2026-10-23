@@ -1,0 +1,20 @@
+{
+  "CHIANTI_version": "11.0.2",
+  "levels": 923,
+  "formula": "j = ne^2 G(T), C IV 1548.187 + 1550.772 A; low-density Maxwellian ground excitation plus radiative cascades",
+  "assumptions": [
+    "Equilibrium ion fractions from chianti.ioneq",
+    "nH/ne=1/1.2 in the C IV emitting phase",
+    "Carbon abundance 8.43 on logH=12 scale",
+    "No time-dependent C ionization, resonance scattering, or line absorption"
+  ],
+  "peak_logT": 5.05,
+  "peak_G": 3.623041922972852e-24,
+  "cascade_multiplier_at_peak": 1.0042942159544932,
+  "files": {
+    "c_4.elvlc": "2b99dadee271ceb69fc54f5b8d6a3afb20981343ce21ff0e2bb2389b0d1ecfc1",
+    "c_4.wgfa": "0ec4dd98005970fa234f48394e9ae464e52bf4834fb60b65ab945daee870187d",
+    "c_4.scups": "5f68c7367b5d3cbb61de333046ccad233f768bf9099551c84fed14c9e85a6b7c",
+    "chianti.ioneq": "706029c824704ab727c40570a8709bae42bf69745db2fa5cd54d5b8b12bc41db"
+  }
+}

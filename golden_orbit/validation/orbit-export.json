@@ -1,0 +1,47 @@
+{
+  "verified": true,
+  "sha256": "ac01415be0eea40d72d410541e16a3b52d12a1bae85bb1ed7a1fed38fb8484c4",
+  "encoded_frames": 960,
+  "frames_per_orbit": 240,
+  "revolutions": 4,
+  "seconds_per_orbit": 8,
+  "continuous_unwrapped_camera": true,
+  "uniform_encoded_timestamps": true,
+  "all_source_frame_times_monotonic_and_unreset": true,
+  "all_frames_max_pre_tone_CIE_Y_grade_error": 3.552713678800501e-15,
+  "first_last_exposure_center_azimuth_deg": [
+    -14.25,
+    1424.25
+  ],
+  "azimuth_advance_per_frame_deg": 1.5,
+  "orbit_boundaries": [
+    {
+      "new_orbit_frame": 240,
+      "time_s": 8.0,
+      "adjacent_frame_MAE_8bit": 8.739505049705983,
+      "local_median_MAE_8bit": 8.643962766658756,
+      "ratio_to_local_median": 1.0110530650844252
+    },
+    {
+      "new_orbit_frame": 480,
+      "time_s": 16.0,
+      "adjacent_frame_MAE_8bit": 8.697848271497508,
+      "local_median_MAE_8bit": 8.633237085673601,
+      "ratio_to_local_median": 1.007484004572413
+    },
+    {
+      "new_orbit_frame": 720,
+      "time_s": 24.0,
+      "adjacent_frame_MAE_8bit": 8.85718429449147,
+      "local_median_MAE_8bit": 8.774694776257153,
+      "ratio_to_local_median": 1.0094008418911071
+    }
+  ],
+  "same_view_between_consecutive_orbits_MAE_8bit": [
+    6.4070089391662055,
+    6.621726920338581,
+    6.893053028505129
+  ],
+  "no_repeated_eight_second_clip": true,
+  "note": "960 exposure centers represent a continuous 32-second, four-orbit interval; no duplicate endpoint. Only the camera is periodic. Plasma and source evolution remain continuous and are not forced to loop."
+}

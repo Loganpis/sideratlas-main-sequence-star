@@ -1,0 +1,45 @@
+NO.004 — THE MAIN-SEQUENCE STAR
+@sideratlas
+Sun-like G2 V · 1 M☉ · 1 R☉ · 5772 K
+
+Hot granules rise through cooler intergranular lanes
+Magnetism reshapes convection and darkens spot cores
+Heated spicule interfaces radiate in ultraviolet
+Four camera orbits reveal the evolving surface
+
+CALCULATED
+Published evolving 3D Bifrost and MURaM photospheres
+Inclined H⁻ continuum transfer, spectrum and limb darkening
+Native active-region radiation and matching magnetic fields
+Published 2.5D Bifrost plasma dynamics with ambipolar diffusion
+CHIANTI C IV 1548 + 1551 Å excitation and radiative cascades
+j = nₑ² G(T); projected radiation, occultation and relative propagation delays
+
+ASSUMPTIONS AND VISUALIZATION
+Independent local models on a sphere, not global MHD
+Surface and atmospheric geometry magnified 10×
+Quiet contrast exponent 3.25; magnetic fine structure 3.0
+Fixed amber–gold–warm-white grading follows calculated brightness relative to the initial limb law
+Pre-tone linear luminance preserved; these are deliberately modified colors
+UV is a separately exposed red-orange false-color channel
+Fixed off-limb UV visibility gain capped at 20×
+Two windows reuse one 2.5D plasma sequence with assumed 6 Mm invariant depth; sheet-like views can occur
+Equilibrium optically thin C IV; advanced ion balance, non-equilibrium carbon and line opacity omitted
+Cool cores and finest penumbral detail remain unresolved
+Not every bright UV strand is an ejection
+5.5× extra optical halo
+Radiance interpolation, not newly solved intermediate fluid motion
+32 seconds = 640 physical seconds
+Four continuous 360° camera orbits, one every 8 seconds
+Camera motion is separate from 25.38-day stellar rotation
+Physical evolution never resets between orbits
+
+SOURCES
+Gudiksen 2011; Hayek 2010; Carlsson 2016
+Cheung 2019; Rempel 2017; Martínez-Sykora 2017, 2018
+Dere 1997, 2023; Dufresne 2024; Asplund 2009
+Coddington 2023; CIE 1931
+MURaM data: CC BY 3.0, provided by Stanford University Libraries
+Full citations, equations and validation in the repository
+
+Code: https://github.com/Loganpis/sideratlas-main-sequence-star

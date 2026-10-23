@@ -1,0 +1,3 @@
+Verified official TSIS-1 HSRS v2: 84073a2b0fb5088fae75348f9204b8e6894dfccd16ef991303e545fcd966b84f
+Verified and decoded 300 native MURaM intensity maps
+Public model inputs and calculated radiation are ready; render with golden/render.py --config config-final.json

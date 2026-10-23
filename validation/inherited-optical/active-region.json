@@ -1,0 +1,63 @@
+{
+  "dataset": "https://purl.stanford.edu/dv883vb9686",
+  "license": "CC BY 3.0",
+  "native_map_shape": [
+    256,
+    512
+  ],
+  "horizontal_spacing_km": 192,
+  "source_domain_Mm": [
+    98.304,
+    49.152
+  ],
+  "timestamps_s": [
+    26729.53515625,
+    28034.56640625
+  ],
+  "number_source_frames": 76,
+  "source_cadence_s": [
+    12.150390625,
+    17.8984375,
+    22.2109375
+  ],
+  "field_plane": "tau=0.1; native reader planes 5,6,7 times sqrt(4 pi) -> bx,bz,by in gauss",
+  "fixed_quiet_intensity_cgs": 24685824000.0,
+  "quiet_reference": "mean first-frame outgoing intensity where total field <100 G; no per-frame normalization",
+  "physical_intensity_classes": {
+    "dark_cores": {
+      "native_pixel_count": 3463,
+      "median_vertical_field_G": 2597.03466796875,
+      "median_total_field_G": 2972.41064453125,
+      "mean_physical_intensity_over_quiet": 0.30628156661987305
+    },
+    "magnetic_intermediate_intensity": {
+      "native_pixel_count": 6850,
+      "median_vertical_field_G": 442.6453552246094,
+      "median_total_field_G": 1290.4019775390625,
+      "mean_physical_intensity_over_quiet": 0.7240097522735596
+    },
+    "magnetic_bright_points": {
+      "native_pixel_count": 341,
+      "median_vertical_field_G": 933.5504150390625,
+      "median_total_field_G": 1451.5494384765625,
+      "mean_physical_intensity_over_quiet": 1.184953212738037
+    }
+  },
+  "temporal_holdout_rms_relative_to_quiet": {
+    "mean": 0.012881141701932775,
+    "maximum": 0.01829186888799013
+  },
+  "radiance_sampling_relative_error": 2.350636352232982e-08,
+  "physical_source_correlation_after_320s": {
+    "all_patch": 0.6988807455271124,
+    "weak_field_patch": 0.0783997502681948
+  },
+  "new_MHD_solver_run": false,
+  "limitations": [
+    "Gray disk-center radiation with a thermal optical-band correction, not local line-by-line spectral synthesis",
+    "Quiet-star limb law is used for active region; Wilson depression and directional facular hot-wall contrast are not newly solved",
+    "192 km grid cannot resolve the finest penumbral filaments",
+    "Patch is blended into independently simulated Bifrost background; not a globally coupled MHD solution",
+    "One 40:1 clock, separate source epochs, fixed 15x magnification; no fabricated plasma advection"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "partial_source_check": false,
+  "source_states": 71,
+  "source_time_bounds_s": [
+    970.0,
+    1630.0
+  ],
+  "min_max_cadence_s": [
+    0.049999999999954525,
+    10.0
+  ],
+  "source_emissivity_reduction_max_relative_integral_error": 3.3700551238524667e-09,
+  "UV_depth_quadrature_24_vs_48": {
+    "full_image_L1_relative": 0.0008110692531558761,
+    "total_flux_relative_difference": -1.683142181185815e-08,
+    "off_limb_L1_relative": 0.0008106029450623615
+  },
+  "UV_native_temporal_holdout_twice_cadence": {
+    "median_L1_relative": 1.157325029373169,
+    "max_L1_relative": 1.5583679676055908,
+    "scope": "Omitting alternate recorded outputs; does not validate subcadence fluid trajectories. All 71 native states retained for final interpolation"
+  },
+  "grade_max_linear_Y_error": 8.881784197001252e-16,
+  "photosphere_output_sampling_1_vs_4_post_optics_RMS_relative_to_mean": 0.008200675278053167,
+  "conclusion": "Physical source fields retained, conservative emissivity rebinning and spectral-luminance grading checked; 2.5D reconstruction and equilibrium C IV remain approximations",
+  "limitations": [
+    "No global coupled MHD solution or independently validated native MHD grid convergence",
+    "No Halpha/MgII non-LTE synthesis; cool spicule cores may be invisible",
+    "C IV equilibrium approximation omits density-dependent ion balance and NE effects",
+    "No large eruption or new jet trajectory imposed"
+  ]
+}

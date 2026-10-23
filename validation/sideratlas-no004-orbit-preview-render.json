@@ -1,0 +1,1080 @@
+{
+  "config": {
+    "name": "SiderAtlas No.004 \u2014 THE MAIN-SEQUENCE STAR",
+    "width": 540,
+    "height": 960,
+    "fps": 15,
+    "seconds": 8,
+    "full_reel_seconds": 32,
+    "center_fraction": [
+      0.5,
+      0.565
+    ],
+    "radius_fraction_of_width": 0.405,
+    "supersample": 2,
+    "limb_supersample": 8,
+    "tile_rows": 64,
+    "camera": {
+      "motion": "uniform-orbit",
+      "inclination_deg": 67.0,
+      "azimuth_start_deg": -15.0,
+      "revolutions": 4
+    },
+    "source_start_s": 3852.4,
+    "physical_seconds_per_display_second": 20,
+    "spatial_magnification": 10,
+    "granulation_contrast_exponent": 3.25,
+    "optics": {
+      "airy_first_zero_550nm_at1080": 1.2,
+      "jitter_sigma_at1080": 0.2,
+      "moffat_alpha_at1080": 105,
+      "scatter_fraction": 0.06,
+      "halo_display_gain": 5.5,
+      "exposure": 2,
+      "tone_mapping": "smooth-max-rgb",
+      "extra_halo_outside_disk_only": true,
+      "halo_mask_center_fraction": [
+        0.5,
+        0.565
+      ],
+      "halo_mask_radius_fraction_of_width": 0.405
+    },
+    "active_region": {
+      "dataset": "Cheung et al. 2018 MURaM outgoing gray intensity",
+      "spatial_magnification": 10,
+      "contrast_exponent": 3,
+      "center_camera_at_start": [
+        0.04,
+        0.02
+      ],
+      "source_center_Mm": [
+        49.152,
+        24.576
+      ],
+      "apodization_Mm": [
+        16,
+        20
+      ],
+      "core_half_extent_Mm": [
+        39.552,
+        17.472
+      ],
+      "outer_half_extent_Mm": [
+        48.96,
+        24.384
+      ],
+      "baseline_sigma_native_pixels": 5
+    },
+    "stream_source_maps": false,
+    "reconstruction": {
+      "method": "overlapping local MHD tiles on six charts",
+      "seed": 41004,
+      "pitch_Mm": 19.2,
+      "window_half_width_Mm": 12.0,
+      "independent_time_phases_s": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300
+      ],
+      "fixed_quarter_turns": true,
+      "fixed_periodic_translations": true
+    },
+    "color_grade": {
+      "relative_intensity_knots": [
+        0.65,
+        1.0,
+        1.9
+      ],
+      "linear_rgb_gains_at_knots": [
+        [
+          1.38,
+          0.75,
+          0.075
+        ],
+        [
+          1.28,
+          0.9,
+          0.13
+        ],
+        [
+          1.08,
+          1.0,
+          0.65
+        ]
+      ],
+      "preserve_linear_luminance": true,
+      "reference": "Fixed initial calculated mean limb intensity, including existing gravitational redshift",
+      "purpose": "Fixed amber lanes, golden midtones and warm-white bright granules; no invented spatial structure"
+    },
+    "atmosphere": {
+      "source": "Bifrost en096014_gol, actual 2.5D thermodynamic sequence",
+      "band_A": null,
+      "source_start_s": 974,
+      "spatial_magnification": 10,
+      "invariant_depth_Mm": 6,
+      "depth_samples": 48,
+      "patch_camera_vectors_at_start": [
+        [
+          0.995,
+          0.1,
+          0.02
+        ],
+        [
+          -0.91,
+          -0.4,
+          0.02
+        ]
+      ],
+      "display_gain": 0.8,
+      "false_color_linear_rgb": [
+        1,
+        0.23,
+        0.035
+      ],
+      "optical_depth": "Optically thin hot phase; photosphere opaque; cool-phase EUV absorption omitted",
+      "lines_A": [
+        1548.187,
+        1550.772
+      ],
+      "intensity_reference_erg_cm2_s_sr": 100000.0,
+      "display_asinh_width_erg_cm2_s_sr": 10000.0,
+      "radial_display_e_fold_R": 0.04,
+      "radial_display_gain_cap": 20
+    }
+  },
+  "frames": 120,
+  "elapsed_s": 128.88245295800152,
+  "max_normalized_PSF_flux_error": 2.3314683517128287e-15,
+  "minimum_crop_fraction": 0.9991751202411514,
+  "emission_metrics": [
+    {
+      "time_s": 0.03333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1905325.029650497,
+      "physical_UV_max": 29492.2510143217,
+      "display_UV_max": 0.5440503488753335
+    },
+    {
+      "time_s": 0.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1900169.2898514858,
+      "physical_UV_max": 24697.48639845799,
+      "display_UV_max": 0.49376571145313564
+    },
+    {
+      "time_s": 0.16666666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1895013.8347328594,
+      "physical_UV_max": 18471.09149634925,
+      "display_UV_max": 0.4235467248161143
+    },
+    {
+      "time_s": 0.23333333333333334,
+      "grade_max_absolute_Y_error": 1.7763568394002505e-15,
+      "physical_UV_sum": 1889858.8460467085,
+      "physical_UV_max": 17564.205877066834,
+      "display_UV_max": 0.4238852558447501
+    },
+    {
+      "time_s": 0.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1884704.5042668476,
+      "physical_UV_max": 14468.656862753518,
+      "display_UV_max": 0.36683185136863083
+    },
+    {
+      "time_s": 0.36666666666666664,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1879550.988094227,
+      "physical_UV_max": 14526.53604464665,
+      "display_UV_max": 0.377363354613372
+    },
+    {
+      "time_s": 0.43333333333333335,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1880457.934098201,
+      "physical_UV_max": 12742.19899956966,
+      "display_UV_max": 0.3428385927215807
+    },
+    {
+      "time_s": 0.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1891457.1749530488,
+      "physical_UV_max": 11089.575334168518,
+      "display_UV_max": 0.31567113607999686
+    },
+    {
+      "time_s": 0.5666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1897817.8461960445,
+      "physical_UV_max": 10579.651969553332,
+      "display_UV_max": 0.306807979048986
+    },
+    {
+      "time_s": 0.6333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1895982.098149506,
+      "physical_UV_max": 9743.80982540767,
+      "display_UV_max": 0.2937188188664815
+    },
+    {
+      "time_s": 0.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1881243.7369346127,
+      "physical_UV_max": 9711.945675522307,
+      "display_UV_max": 0.27602430206534895
+    },
+    {
+      "time_s": 0.7666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1859715.648564175,
+      "physical_UV_max": 9278.235788056169,
+      "display_UV_max": 0.2599025937455668
+    },
+    {
+      "time_s": 0.8333333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1838182.2074957239,
+      "physical_UV_max": 9135.56136930297,
+      "display_UV_max": 0.254460267447089
+    },
+    {
+      "time_s": 0.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1820054.0520641091,
+      "physical_UV_max": 9135.75701530746,
+      "display_UV_max": 0.24961881009621611
+    },
+    {
+      "time_s": 0.9666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1805664.219972655,
+      "physical_UV_max": 8619.23277388249,
+      "display_UV_max": 0.2535996056703671
+    },
+    {
+      "time_s": 1.0333333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1796707.7707227631,
+      "physical_UV_max": 8314.061024099765,
+      "display_UV_max": 0.25636903290815544
+    },
+    {
+      "time_s": 1.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1791443.7832504376,
+      "physical_UV_max": 8390.307348413591,
+      "display_UV_max": 0.2595477561777333
+    },
+    {
+      "time_s": 1.1666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1788579.6924681957,
+      "physical_UV_max": 8262.467509088603,
+      "display_UV_max": 0.2619297578354986
+    },
+    {
+      "time_s": 1.2333333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1787165.804642157,
+      "physical_UV_max": 8227.19206481601,
+      "display_UV_max": 0.26192257023090115
+    },
+    {
+      "time_s": 1.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1783519.64272704,
+      "physical_UV_max": 8315.231203355133,
+      "display_UV_max": 0.2620028876131966
+    },
+    {
+      "time_s": 1.3666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1768432.9909324865,
+      "physical_UV_max": 8534.518779215285,
+      "display_UV_max": 0.26351371368354287
+    },
+    {
+      "time_s": 1.4333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1744556.46957934,
+      "physical_UV_max": 8574.92176973098,
+      "display_UV_max": 0.25681546068770444
+    },
+    {
+      "time_s": 1.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1726397.2560292631,
+      "physical_UV_max": 7792.077244111491,
+      "display_UV_max": 0.2346615168234077
+    },
+    {
+      "time_s": 1.5666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1724297.646819514,
+      "physical_UV_max": 7167.694363026275,
+      "display_UV_max": 0.20774771270718556
+    },
+    {
+      "time_s": 1.6333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1712322.6133319791,
+      "physical_UV_max": 6574.477574067393,
+      "display_UV_max": 0.1854519953456224
+    },
+    {
+      "time_s": 1.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1674221.3948793267,
+      "physical_UV_max": 5867.425714415623,
+      "display_UV_max": 0.16339274721212466
+    },
+    {
+      "time_s": 1.7666666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1624733.4273515677,
+      "physical_UV_max": 5578.5736439834645,
+      "display_UV_max": 0.14204514256052417
+    },
+    {
+      "time_s": 1.8333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1607998.6030990956,
+      "physical_UV_max": 5843.86707866955,
+      "display_UV_max": 0.14819193782690845
+    },
+    {
+      "time_s": 1.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1626327.3842276789,
+      "physical_UV_max": 6799.4935168549355,
+      "display_UV_max": 0.17719021695971957
+    },
+    {
+      "time_s": 1.9666666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1633521.3782108093,
+      "physical_UV_max": 7026.057388810511,
+      "display_UV_max": 0.18856465274566306
+    },
+    {
+      "time_s": 2.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1621451.0142274047,
+      "physical_UV_max": 6735.343608684984,
+      "display_UV_max": 0.18724847876926579
+    },
+    {
+      "time_s": 2.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1575213.3779311117,
+      "physical_UV_max": 6336.6815899220155,
+      "display_UV_max": 0.18414065791631862
+    },
+    {
+      "time_s": 2.1666666666666665,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1526837.4957326462,
+      "physical_UV_max": 5957.367407340297,
+      "display_UV_max": 0.18231450025463197
+    },
+    {
+      "time_s": 2.2333333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1495547.6843575374,
+      "physical_UV_max": 5699.019849243584,
+      "display_UV_max": 0.1838437460060158
+    },
+    {
+      "time_s": 2.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1464199.1984128982,
+      "physical_UV_max": 6010.599700064503,
+      "display_UV_max": 0.19370303104172215
+    },
+    {
+      "time_s": 2.3666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1453348.2495380475,
+      "physical_UV_max": 5565.351188776731,
+      "display_UV_max": 0.1828315176975391
+    },
+    {
+      "time_s": 2.433333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1449108.6937651732,
+      "physical_UV_max": 5187.99157857067,
+      "display_UV_max": 0.17539393592087568
+    },
+    {
+      "time_s": 2.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1442199.2927935068,
+      "physical_UV_max": 5102.684811404395,
+      "display_UV_max": 0.17432290920625315
+    },
+    {
+      "time_s": 2.566666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1447340.596980437,
+      "physical_UV_max": 5095.014510840064,
+      "display_UV_max": 0.17572464539983212
+    },
+    {
+      "time_s": 2.6333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1444029.61921417,
+      "physical_UV_max": 5334.962879928058,
+      "display_UV_max": 0.17605917519589948
+    },
+    {
+      "time_s": 2.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1442601.871745236,
+      "physical_UV_max": 5410.9709431979945,
+      "display_UV_max": 0.17338387749214879
+    },
+    {
+      "time_s": 2.7666666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1444724.9468579474,
+      "physical_UV_max": 5397.720063418546,
+      "display_UV_max": 0.1632000044711821
+    },
+    {
+      "time_s": 2.8333333333333335,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1450575.041125778,
+      "physical_UV_max": 6114.140040769237,
+      "display_UV_max": 0.16893244161099755
+    },
+    {
+      "time_s": 2.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1466779.8701915387,
+      "physical_UV_max": 6797.200584638108,
+      "display_UV_max": 0.17159813967659096
+    },
+    {
+      "time_s": 2.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1481207.4391415366,
+      "physical_UV_max": 7295.242365605048,
+      "display_UV_max": 0.18055655811475216
+    },
+    {
+      "time_s": 3.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1495190.679553166,
+      "physical_UV_max": 8022.311998504575,
+      "display_UV_max": 0.19595863139060415
+    },
+    {
+      "time_s": 3.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1508104.8917499282,
+      "physical_UV_max": 7734.726023683182,
+      "display_UV_max": 0.18993105946657973
+    },
+    {
+      "time_s": 3.1666666666666665,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1520174.3661164835,
+      "physical_UV_max": 8062.253174002094,
+      "display_UV_max": 0.19678911054666706
+    },
+    {
+      "time_s": 3.2333333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1525299.3553918924,
+      "physical_UV_max": 8249.600849948387,
+      "display_UV_max": 0.20485236696114767
+    },
+    {
+      "time_s": 3.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1521012.8235720794,
+      "physical_UV_max": 8239.774607827287,
+      "display_UV_max": 0.21220607178512177
+    },
+    {
+      "time_s": 3.3666666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1483412.458511196,
+      "physical_UV_max": 8216.16249807448,
+      "display_UV_max": 0.21646165761795422
+    },
+    {
+      "time_s": 3.433333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1343050.8558099014,
+      "physical_UV_max": 7069.835840585687,
+      "display_UV_max": 0.17567162053570037
+    },
+    {
+      "time_s": 3.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1261482.3270819357,
+      "physical_UV_max": 6597.5291791069185,
+      "display_UV_max": 0.1652667904269679
+    },
+    {
+      "time_s": 3.566666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1216778.1474976107,
+      "physical_UV_max": 6094.4714002679375,
+      "display_UV_max": 0.1539335438779347
+    },
+    {
+      "time_s": 3.6333333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1172727.8597132883,
+      "physical_UV_max": 4948.640418442795,
+      "display_UV_max": 0.12717222973601147
+    },
+    {
+      "time_s": 3.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1138564.4355068218,
+      "physical_UV_max": 5094.939335784731,
+      "display_UV_max": 0.13066067506769227
+    },
+    {
+      "time_s": 3.7666666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1107037.5300742383,
+      "physical_UV_max": 5354.831803915723,
+      "display_UV_max": 0.13680682433465782
+    },
+    {
+      "time_s": 3.8333333333333335,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1077594.2986501607,
+      "physical_UV_max": 5389.394382318857,
+      "display_UV_max": 0.13761923151586453
+    },
+    {
+      "time_s": 3.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1075663.837481144,
+      "physical_UV_max": 5550.224191377575,
+      "display_UV_max": 0.1413841490874692
+    },
+    {
+      "time_s": 3.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1067799.6859844974,
+      "physical_UV_max": 5740.551869501589,
+      "display_UV_max": 0.14580649768810555
+    },
+    {
+      "time_s": 4.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1063901.3913270817,
+      "physical_UV_max": 6049.092240501435,
+      "display_UV_max": 0.15289855942658354
+    },
+    {
+      "time_s": 4.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1062630.5025413216,
+      "physical_UV_max": 6335.989880189378,
+      "display_UV_max": 0.15940682796934455
+    },
+    {
+      "time_s": 4.166666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1061546.422166019,
+      "physical_UV_max": 6634.461004721869,
+      "display_UV_max": 0.16608863669383808
+    },
+    {
+      "time_s": 4.233333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1060649.104327284,
+      "physical_UV_max": 7002.370756427019,
+      "display_UV_max": 0.17419939371370352
+    },
+    {
+      "time_s": 4.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1059891.251467164,
+      "physical_UV_max": 7175.440966062007,
+      "display_UV_max": 0.17796675626473754
+    },
+    {
+      "time_s": 4.366666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1060128.4738042245,
+      "physical_UV_max": 7190.605951290756,
+      "display_UV_max": 0.17829539930012123
+    },
+    {
+      "time_s": 4.433333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1062842.3143886086,
+      "physical_UV_max": 6671.597613236698,
+      "display_UV_max": 0.166913631304359
+    },
+    {
+      "time_s": 4.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1065554.5789954392,
+      "physical_UV_max": 7093.286259788162,
+      "display_UV_max": 0.17618226210323817
+    },
+    {
+      "time_s": 4.566666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1068265.7349860016,
+      "physical_UV_max": 6823.478267086303,
+      "display_UV_max": 0.17027296519850602
+    },
+    {
+      "time_s": 4.633333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1070976.5914627565,
+      "physical_UV_max": 6787.370056715093,
+      "display_UV_max": 0.16947645860223354
+    },
+    {
+      "time_s": 4.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1073690.5665611487,
+      "physical_UV_max": 6566.57503313056,
+      "display_UV_max": 0.16457689016203492
+    },
+    {
+      "time_s": 4.766666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1076411.9072727717,
+      "physical_UV_max": 6460.010982526912,
+      "display_UV_max": 0.1621943151304743
+    },
+    {
+      "time_s": 4.833333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1079610.581624869,
+      "physical_UV_max": 6282.977389678425,
+      "display_UV_max": 0.1582105399698382
+    },
+    {
+      "time_s": 4.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1085035.6107674467,
+      "physical_UV_max": 6519.923726451871,
+      "display_UV_max": 0.16353528221420038
+    },
+    {
+      "time_s": 4.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1087194.4331580626,
+      "physical_UV_max": 6551.832116976189,
+      "display_UV_max": 0.1642479580421567
+    },
+    {
+      "time_s": 5.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1089350.7616354073,
+      "physical_UV_max": 6771.410869167379,
+      "display_UV_max": 0.22230316944278355
+    },
+    {
+      "time_s": 5.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1091506.6904298593,
+      "physical_UV_max": 7049.866730980736,
+      "display_UV_max": 0.2444274130647246
+    },
+    {
+      "time_s": 5.166666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1093666.5369507829,
+      "physical_UV_max": 7432.883817560075,
+      "display_UV_max": 0.22497911634060577
+    },
+    {
+      "time_s": 5.233333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1095833.387922031,
+      "physical_UV_max": 8032.416060350323,
+      "display_UV_max": 0.19616887374462869
+    },
+    {
+      "time_s": 5.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1100122.3741589359,
+      "physical_UV_max": 8763.650381566858,
+      "display_UV_max": 0.21111056436152476
+    },
+    {
+      "time_s": 5.366666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1121263.50633381,
+      "physical_UV_max": 9634.996945559882,
+      "display_UV_max": 0.22822239995971852
+    },
+    {
+      "time_s": 5.433333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1143827.3868892577,
+      "physical_UV_max": 10028.196941424225,
+      "display_UV_max": 0.23570388771732287
+    },
+    {
+      "time_s": 5.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1160305.008998706,
+      "physical_UV_max": 9929.420468950611,
+      "display_UV_max": 0.23383825916511
+    },
+    {
+      "time_s": 5.566666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1176466.192631982,
+      "physical_UV_max": 9692.130745605666,
+      "display_UV_max": 0.22931864721083645
+    },
+    {
+      "time_s": 5.633333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1200222.340732155,
+      "physical_UV_max": 9496.084298355028,
+      "display_UV_max": 0.2255439425684127
+    },
+    {
+      "time_s": 5.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1218084.3184504216,
+      "physical_UV_max": 9206.605827733747,
+      "display_UV_max": 0.21990230011420803
+    },
+    {
+      "time_s": 5.766666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1230228.0656102723,
+      "physical_UV_max": 9020.348565014281,
+      "display_UV_max": 0.21916315945590983
+    },
+    {
+      "time_s": 5.833333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1242435.870553115,
+      "physical_UV_max": 8850.379448389966,
+      "display_UV_max": 0.22019766540735017
+    },
+    {
+      "time_s": 5.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1250525.4951497477,
+      "physical_UV_max": 8498.073719423788,
+      "display_UV_max": 0.22018351228299676
+    },
+    {
+      "time_s": 5.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1263976.1663242143,
+      "physical_UV_max": 7895.45877485608,
+      "display_UV_max": 0.21218993549893567
+    },
+    {
+      "time_s": 6.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1279315.0830318714,
+      "physical_UV_max": 8156.858183199213,
+      "display_UV_max": 0.20114682838830944
+    },
+    {
+      "time_s": 6.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1292612.4027359362,
+      "physical_UV_max": 8519.597195843271,
+      "display_UV_max": 0.2248882000262208
+    },
+    {
+      "time_s": 6.166666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1308056.3087112014,
+      "physical_UV_max": 8029.750555165425,
+      "display_UV_max": 0.2342961736278932
+    },
+    {
+      "time_s": 6.233333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1328320.7521148152,
+      "physical_UV_max": 8816.93982177771,
+      "display_UV_max": 0.2510232160519945
+    },
+    {
+      "time_s": 6.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1350761.6935706907,
+      "physical_UV_max": 9004.534491793303,
+      "display_UV_max": 0.277939456080594
+    },
+    {
+      "time_s": 6.366666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1376152.0037957188,
+      "physical_UV_max": 9486.085924033026,
+      "display_UV_max": 0.2902288540688003
+    },
+    {
+      "time_s": 6.433333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1399217.252133778,
+      "physical_UV_max": 9400.850953886451,
+      "display_UV_max": 0.2936450430182755
+    },
+    {
+      "time_s": 6.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1408222.418228022,
+      "physical_UV_max": 9351.69766001095,
+      "display_UV_max": 0.2983102196383769
+    },
+    {
+      "time_s": 6.566666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1415301.7320602199,
+      "physical_UV_max": 9500.209646401398,
+      "display_UV_max": 0.3093752912892811
+    },
+    {
+      "time_s": 6.633333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1430457.7980500162,
+      "physical_UV_max": 9569.404209571861,
+      "display_UV_max": 0.3179738827779961
+    },
+    {
+      "time_s": 6.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1450889.9840245347,
+      "physical_UV_max": 9303.604093749787,
+      "display_UV_max": 0.310378784121233
+    },
+    {
+      "time_s": 6.766666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1488966.078516621,
+      "physical_UV_max": 9428.66778362549,
+      "display_UV_max": 0.31678426581760455
+    },
+    {
+      "time_s": 6.833333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1551791.1274106458,
+      "physical_UV_max": 10597.537343038466,
+      "display_UV_max": 0.3502792128938899
+    },
+    {
+      "time_s": 6.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1638799.2783912462,
+      "physical_UV_max": 11535.847370650634,
+      "display_UV_max": 0.36873398719027095
+    },
+    {
+      "time_s": 6.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1753858.5469490618,
+      "physical_UV_max": 12813.49904824269,
+      "display_UV_max": 0.39556259957536366
+    },
+    {
+      "time_s": 7.033333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1856195.8242824129,
+      "physical_UV_max": 13377.221555771763,
+      "display_UV_max": 0.40439868012118124
+    },
+    {
+      "time_s": 7.1,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 1934285.385091828,
+      "physical_UV_max": 13090.796585280781,
+      "display_UV_max": 0.38751582309127514
+    },
+    {
+      "time_s": 7.166666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2000258.774749947,
+      "physical_UV_max": 12948.321245581647,
+      "display_UV_max": 0.3922349599537856
+    },
+    {
+      "time_s": 7.233333333333333,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2054699.6763848728,
+      "physical_UV_max": 14916.715650522267,
+      "display_UV_max": 0.3991158999371756
+    },
+    {
+      "time_s": 7.3,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2103114.4336708006,
+      "physical_UV_max": 15723.593333356503,
+      "display_UV_max": 0.42919662440930906
+    },
+    {
+      "time_s": 7.366666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2158285.418408776,
+      "physical_UV_max": 17416.631397754194,
+      "display_UV_max": 0.44867204356912094
+    },
+    {
+      "time_s": 7.433333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2215329.001375829,
+      "physical_UV_max": 19528.706926214683,
+      "display_UV_max": 0.4710884454787127
+    },
+    {
+      "time_s": 7.5,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2285587.8345458736,
+      "physical_UV_max": 21191.836277383463,
+      "display_UV_max": 0.49995375001335096
+    },
+    {
+      "time_s": 7.566666666666666,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2374939.558931926,
+      "physical_UV_max": 25410.00279482714,
+      "display_UV_max": 0.5721589861301747
+    },
+    {
+      "time_s": 7.633333333333334,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2465318.4203375243,
+      "physical_UV_max": 28701.410574315447,
+      "display_UV_max": 0.6145280928863539
+    },
+    {
+      "time_s": 7.7,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2524006.4127500816,
+      "physical_UV_max": 29939.303321558764,
+      "display_UV_max": 0.624216379308189
+    },
+    {
+      "time_s": 7.766666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2553164.8762082206,
+      "physical_UV_max": 40026.86618184161,
+      "display_UV_max": 0.7461466613777532
+    },
+    {
+      "time_s": 7.833333333333333,
+      "grade_max_absolute_Y_error": 1.7763568394002505e-15,
+      "physical_UV_sum": 2575836.3926941897,
+      "physical_UV_max": 52615.12992828525,
+      "display_UV_max": 0.7910506098708967
+    },
+    {
+      "time_s": 7.9,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2598469.520142355,
+      "physical_UV_max": 56400.82204554926,
+      "display_UV_max": 0.8968129970711045
+    },
+    {
+      "time_s": 7.966666666666667,
+      "grade_max_absolute_Y_error": 8.881784197001252e-16,
+      "physical_UV_sum": 2577044.544542668,
+      "physical_UV_max": 65533.37002888036,
+      "display_UV_max": 0.8869522776574834
+    }
+  ],
+  "export": {
+    "input": "16-bit-per-channel sRGB RGB48LE",
+    "output": "H.264 High / yuv420p / Rec.709 limited / MP4",
+    "crf": 14,
+    "maxrate_bps": 20000000,
+    "preset": "slow",
+    "encoder_threads": 4,
+    "audio": false,
+    "faststart": true,
+    "quantization": "zscale error diffusion at final 8-bit conversion, not astrophysical texture or added decorative grain",
+    "filter": "format=gbrp16le,zscale=primariesin=709:transferin=iec61966-2-1:matrixin=gbr:rangein=full:primaries=709:transfer=709:matrix=709:range=limited:chromal=left:filter=spline36:agamma=0:dither=error_diffusion,format=yuv420p",
+    "ffmpeg_version": "ffmpeg version 8.0 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "GOL_source_times_s": [
+    970.0,
+    980.0,
+    990.0,
+    1000.0,
+    1010.0,
+    1020.0,
+    1030.0,
+    1040.0,
+    1050.0,
+    1060.0,
+    1070.0,
+    1080.0,
+    1090.0,
+    1100.0,
+    1110.0,
+    1111.57,
+    1120.0,
+    1130.0,
+    1140.0,
+    1150.0,
+    1160.0,
+    1170.0,
+    1180.0,
+    1190.0,
+    1200.0,
+    1210.0,
+    1220.0,
+    1230.0,
+    1240.0,
+    1250.0,
+    1260.0,
+    1270.0,
+    1280.0,
+    1289.95,
+    1290.0,
+    1300.0,
+    1310.0,
+    1320.0,
+    1330.0,
+    1340.0,
+    1350.0,
+    1360.0,
+    1370.0,
+    1380.0,
+    1390.0,
+    1400.0,
+    1410.0,
+    1420.0,
+    1430.0,
+    1440.0,
+    1445.23,
+    1450.0,
+    1460.0,
+    1470.0,
+    1480.0,
+    1490.0,
+    1500.0,
+    1510.0,
+    1520.0,
+    1530.0,
+    1540.0,
+    1544.36,
+    1550.0,
+    1560.0,
+    1570.0,
+    1580.0,
+    1590.0,
+    1600.0,
+    1610.0,
+    1620.0,
+    1630.0
+  ]
+}

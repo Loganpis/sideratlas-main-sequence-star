@@ -1,0 +1,438 @@
+{
+  "snapshot_count": 41,
+  "native_time_range_s": [
+    3850.0,
+    5439.97
+  ],
+  "source_teff_range_K": [
+    5715.0,
+    59680.0
+  ],
+  "all_fields_match": true,
+  "records": [
+    {
+      "snapshot": 385,
+      "time_s": 3850.0,
+      "teff_K": 5773.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 389,
+      "time_s": 3890.0,
+      "teff_K": 5772.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 393,
+      "time_s": 3930.0,
+      "teff_K": 5771.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 397,
+      "time_s": 3970.0,
+      "teff_K": 5774.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 401,
+      "time_s": 4010.0,
+      "teff_K": 5780.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 405,
+      "time_s": 4050.0,
+      "teff_K": 5781.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 409,
+      "time_s": 4090.0,
+      "teff_K": 59680.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 413,
+      "time_s": 4130.0,
+      "teff_K": 5748.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 417,
+      "time_s": 4170.0,
+      "teff_K": 5730.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 421,
+      "time_s": 4210.0,
+      "teff_K": 5725.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 425,
+      "time_s": 4249.99,
+      "teff_K": 5735.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 429,
+      "time_s": 4289.99,
+      "teff_K": 5756.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 433,
+      "time_s": 4329.99,
+      "teff_K": 5775.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 437,
+      "time_s": 4369.99,
+      "teff_K": 5789.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 441,
+      "time_s": 4409.99,
+      "teff_K": 5793.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 445,
+      "time_s": 4449.99,
+      "teff_K": 5785.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 449,
+      "time_s": 4489.99,
+      "teff_K": 5765.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 453,
+      "time_s": 4529.99,
+      "teff_K": 5745.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 457,
+      "time_s": 4569.99,
+      "teff_K": 5734.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 461,
+      "time_s": 4609.99,
+      "teff_K": 5735.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 465,
+      "time_s": 4649.99,
+      "teff_K": 5743.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 469,
+      "time_s": 4689.99,
+      "teff_K": 5753.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 473,
+      "time_s": 4729.98,
+      "teff_K": 5756.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 477,
+      "time_s": 4769.99,
+      "teff_K": 5759.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 481,
+      "time_s": 4809.98,
+      "teff_K": 5767.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 485,
+      "time_s": 4849.99,
+      "teff_K": 5778.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 489,
+      "time_s": 4889.98,
+      "teff_K": 5785.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 493,
+      "time_s": 4929.98,
+      "teff_K": 5779.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 497,
+      "time_s": 4969.99,
+      "teff_K": 5761.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 501,
+      "time_s": 5009.98,
+      "teff_K": 5739.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 505,
+      "time_s": 5049.98,
+      "teff_K": 5723.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 509,
+      "time_s": 5089.98,
+      "teff_K": 5715.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 513,
+      "time_s": 5129.98,
+      "teff_K": 5717.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 517,
+      "time_s": 5169.98,
+      "teff_K": 5730.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 521,
+      "time_s": 5209.98,
+      "teff_K": 5752.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 525,
+      "time_s": 5249.98,
+      "teff_K": 5770.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 529,
+      "time_s": 5289.98,
+      "teff_K": 5777.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 533,
+      "time_s": 5329.98,
+      "teff_K": 5772.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 537,
+      "time_s": 5369.98,
+      "teff_K": 5757.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 541,
+      "time_s": 5409.98,
+      "teff_K": 5740.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    },
+    {
+      "snapshot": 544,
+      "time_s": 5439.97,
+      "teff_K": 5731.0,
+      "shape": [
+        75,
+        504,
+        504
+      ]
+    }
+  ],
+  "valid_header_teff_range_K": [
+    5715.0,
+    5793.0
+  ],
+  "metadata_anomalies": [
+    {
+      "snapshot": 409,
+      "archived_teff_K": 59680.0,
+      "ancillary_header_unused_in_calculation": true,
+      "mean_synthesized_RGB_over_initial": 0.9943911835962083,
+      "temperature_field_max_K": 13648.0107421875,
+      "action": "Preserve and flag inconsistent header; do not silently correct; temperature, density and populations drive all calculations"
+    }
+  ]
+}

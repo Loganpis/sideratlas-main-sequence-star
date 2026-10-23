@@ -1,0 +1,143 @@
+{
+  "camera": {
+    "revolutions": 4,
+    "seconds_per_orbit": 8,
+    "angular_speed_deg_s": 45,
+    "azimuth_at_0_8_16_24_32_s": [
+      -15.0,
+      345.0,
+      705.0,
+      1065.0,
+      1425.0
+    ],
+    "inclination_deg": 67,
+    "continuous_unwrapped_phase": true,
+    "frame_sampling": "midpoints; no duplicated end frame",
+    "physical_rotation_days": 25.38,
+    "physical_rotation_during_film_deg": 0.1050696086157079
+  },
+  "depth_quadrature": [
+    {
+      "time_s": 0.0,
+      "L1_48_vs_96": 2.2727957638349375e-05,
+      "total_UV_flux_relative": -1.0696680208255316e-09,
+      "physical_CIV_sum": 7631611.805285771
+    },
+    {
+      "time_s": 1.0,
+      "L1_48_vs_96": 0.0034961696574503094,
+      "total_UV_flux_relative": -2.929395128725698e-05,
+      "physical_CIV_sum": 7201790.378533635
+    },
+    {
+      "time_s": 2.0,
+      "L1_48_vs_96": 0.007960251005635596,
+      "total_UV_flux_relative": -1.7578066291323857e-05,
+      "physical_CIV_sum": 6520068.761966512
+    },
+    {
+      "time_s": 3.0,
+      "L1_48_vs_96": 0.007576097104161627,
+      "total_UV_flux_relative": 2.1776354424130062e-06,
+      "physical_CIV_sum": 5952717.769798818
+    },
+    {
+      "time_s": 4.0,
+      "L1_48_vs_96": 0.0027672955549566734,
+      "total_UV_flux_relative": 2.1391541451531992e-06,
+      "physical_CIV_sum": 4260019.023285567
+    },
+    {
+      "time_s": 5.0,
+      "L1_48_vs_96": 0.009615878175628501,
+      "total_UV_flux_relative": -1.4159497130350474e-08,
+      "physical_CIV_sum": 4353091.506364485
+    },
+    {
+      "time_s": 6.0,
+      "L1_48_vs_96": 0.022820322517772683,
+      "total_UV_flux_relative": 2.555172792018112e-06,
+      "physical_CIV_sum": 5086819.484000041
+    },
+    {
+      "time_s": 7.0,
+      "L1_48_vs_96": 0.0019518809506012084,
+      "total_UV_flux_relative": -5.258127461560402e-05,
+      "physical_CIV_sum": 7238755.3543485245
+    },
+    {
+      "time_s": 16.0,
+      "L1_48_vs_96": 2.3926539098088515e-05,
+      "total_UV_flux_relative": -1.0538541150850733e-09,
+      "physical_CIV_sum": 9312793.524622405
+    },
+    {
+      "time_s": 31.99,
+      "L1_48_vs_96": 2.866547122253748e-05,
+      "total_UV_flux_relative": -1.035197150223155e-09,
+      "physical_CIV_sum": 8335419.632386218
+    },
+    {
+      "time_s": 32.0,
+      "L1_48_vs_96": 2.3733142099642655e-05,
+      "total_UV_flux_relative": -1.0493171886949426e-09,
+      "physical_CIV_sum": 8587647.798984932
+    }
+  ],
+  "source_states": 71,
+  "visible_emission_times_bracketed": true,
+  "maximum_depth_quadrature_L1": 0.022820322517772683,
+  "palette": {
+    "fixed_through_film": true,
+    "coordinates": [
+      0.0,
+      0.08,
+      0.24,
+      0.5,
+      0.78,
+      1.0
+    ],
+    "sRGB": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.26,
+        0.012,
+        0.0015
+      ],
+      [
+        0.53,
+        0.035,
+        0.003
+      ],
+      [
+        0.86,
+        0.12,
+        0.009
+      ],
+      [
+        1.0,
+        0.32,
+        0.028
+      ],
+      [
+        1.0,
+        0.57,
+        0.085
+      ]
+    ],
+    "each_channel_monotonic": true,
+    "calculated_Halpha": false
+  },
+  "output_sampling_1_vs_4_post_imaging_RMS_relative_to_mean": 0.013536514584767102,
+  "sampling_test_frame_s": 0.016666666666666666,
+  "limits": [
+    "Independent local models, not global MHD",
+    "UV third-direction finite depth is assumed; view-dependent sheet-like appearance can be visible",
+    "C IV ionization equilibrium, opacity and temporal limitations inherited",
+    "False colour is multispectral; no H-alpha surface synthesis"
+  ]
+}

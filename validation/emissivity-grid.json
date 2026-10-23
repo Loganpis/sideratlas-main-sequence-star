@@ -1,0 +1,17 @@
+{
+  "snapshot": 325,
+  "native_grid_reduction_factors": [
+    4,
+    2
+  ],
+  "native_MHD_recomputed": false,
+  "source_payload_sha256": [
+    "fd7ee7c9972e5430325b6ef7c9858feb7739212c4fa30975f626f51f609247aa",
+    "9791d021d5f37a4ff7d332d8b83c9e6865bab3293e380b78c26a0cc031c542a3"
+  ],
+  "final_width": 1080,
+  "raw_projected_L1_relative": 0.018953168845249124,
+  "Gaussian_1p2px_L1_relative": 0.005259392662195111,
+  "integrated_flux_relative_difference": -6.23652350751902e-05,
+  "scope": "Same native T/ne and coefficient; convergence of emissivity averaging and display projection, not MHD or non-LTE accuracy"
+}

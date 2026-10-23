@@ -1,0 +1,28 @@
+{
+  "17_vs_33_wavelengths": {
+    "mean_relative_difference": 6.538629531860352e-05,
+    "rms_relative_to_mean": 0.0003508926020003855,
+    "max_relative_to_mean": 0.0013271314091980457
+  },
+  "vertical_formal_integration_refinement": {
+    "mean_relative_difference": 0.010651767253875732,
+    "rms_relative_to_mean": 0.015804952010512352,
+    "max_relative_to_mean": 0.09674971550703049
+  },
+  "oblique_angular_interpolation": {
+    "mean_relative_difference": 0.0023069381713867188,
+    "rms_relative_to_mean": 0.02278308756649494,
+    "max_relative_to_mean": 0.3710988759994507
+  },
+  "output_grid_point_consistency": {
+    "mean_relative_difference": 0.0,
+    "rms_relative_to_mean": 0.0,
+    "max_relative_to_mean": 0.0
+  },
+  "40_second_temporal_midpoint": {
+    "mean_relative_difference": 0.00047832727432250977,
+    "rms_relative_to_mean": 0.01141745038330555,
+    "max_relative_to_mean": 0.3526182472705841
+  },
+  "scope": "Post-processing convergence only, not independent radiation-MHD grid convergence; maximum point errors may be larger in magnetic lanes"
+}

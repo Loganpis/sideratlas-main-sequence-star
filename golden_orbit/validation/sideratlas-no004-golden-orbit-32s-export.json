@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "file": "sideratlas-no004-golden-orbit-32s.mp4",
+  "sha256": "ac01415be0eea40d72d410541e16a3b52d12a1bae85bb1ed7a1fed38fb8484c4",
+  "size_bytes": 81831077,
+  "width": 1080,
+  "height": 1920,
+  "frames": 960,
+  "duration_s": 32.0,
+  "complete_decode": true,
+  "first_frame_MAE_8bit": 1.4818576388888889,
+  "first_frame_PSNR_dB": 39.579053447707906,
+  "minimum_adjacent_frame_MAE_8bit": 5.191402874228395,
+  "max_normalized_PSF_flux_error": 6.439293542825908e-15,
+  "minimum_crop_fraction": 0.9991745451875119,
+  "only_labels": [
+    "THE MAIN-SEQUENCE STAR",
+    "@sideratlas",
+    "NO.004"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "file": "sideratlas-no004-orbit-preview.mp4",
+  "sha256": "15304e3c6127ef85b1d8a282c3f1ec8e6d2639d099ff2f0c599b59bcd7629bef",
+  "size_bytes": 6775164,
+  "width": 540,
+  "height": 960,
+  "frames": 120,
+  "duration_s": 8.0,
+  "complete_decode": true,
+  "first_frame_MAE_8bit": 1.970002572016461,
+  "first_frame_PSNR_dB": 35.96715411144289,
+  "minimum_adjacent_frame_MAE_8bit": 4.702432484567901,
+  "max_normalized_PSF_flux_error": 2.3314683517128287e-15,
+  "minimum_crop_fraction": 0.9991751202411514,
+  "only_labels": [
+    "THE MAIN-SEQUENCE STAR",
+    "@sideratlas",
+    "NO.004"
+  ]
+}

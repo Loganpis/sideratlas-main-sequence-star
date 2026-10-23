@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+data/raw/
+data/continuum/
+data/active-region/
+golden/data/spicules-uv/
+golden_orbit/output/*.mp4
+golden_orbit/output/frame-*.png
+*.log
+*.pid
+output/*.mp4
+*.zip

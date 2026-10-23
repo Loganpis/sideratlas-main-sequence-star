@@ -1,0 +1,30 @@
+{
+  "385": {
+    "field_height_Mm": 0.05637054145336151,
+    "strong_field_fraction": 0.014566011589821114,
+    "unsigned_vertical_flux_G": 25.21756935119629,
+    "net_vertical_flux_G": -0.023674554086028365,
+    "strong_over_quiet_disk_center": 0.9331087941854077,
+    "strong_over_quiet_mu_point3_by_azimuth": [
+      0.9676000360826225,
+      0.9956784361552289,
+      0.9901424474434238,
+      0.9894707400217151
+    ],
+    "classification": "Field-conditioned continuum statistics at a fixed geometric plane; not proof that every bright feature is a facula"
+  },
+  "401": {
+    "field_height_Mm": 0.05637054145336151,
+    "strong_field_fraction": 0.014203829680020156,
+    "unsigned_vertical_flux_G": 26.170141220092773,
+    "net_vertical_flux_G": -0.02627639105412527,
+    "strong_over_quiet_disk_center": 0.9268470392882407,
+    "strong_over_quiet_mu_point3_by_azimuth": [
+      0.963832040748207,
+      0.9698708400865984,
+      0.9632381923802197,
+      0.9828130466824184
+    ],
+    "classification": "Field-conditioned continuum statistics at a fixed geometric plane; not proof that every bright feature is a facula"
+  }
+}

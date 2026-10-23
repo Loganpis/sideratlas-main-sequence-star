@@ -1,0 +1,165 @@
+{
+  "camera": {
+    "revolutions": 4,
+    "seconds_per_orbit": 8,
+    "angular_speed_deg_s": 45,
+    "azimuth_at_0_8_16_24_32_s": [
+      -15.0,
+      345.0,
+      705.0,
+      1065.0,
+      1425.0
+    ],
+    "inclination_deg": 67,
+    "maximum_frozen_orientation_return_error": 1.4988010832439613e-15,
+    "frame_sampling": "960 midpoint frames; constant 1.5 degree azimuth steps, no duplicated endpoint",
+    "centered_constant_radius": true,
+    "source_clock_reset": false,
+    "physical_seconds_per_display_second": 20,
+    "physical_rotation_days": 25.38,
+    "physical_rotation_during_film_deg": 0.1050696086157079
+  },
+  "UV_depth_quadrature": [
+    {
+      "time_s": 0.0,
+      "L1_48_vs_96": 2.2727957638349375e-05,
+      "total_UV_flux_relative": -1.0696680208255316e-09,
+      "physical_CIV_sum": 7631611.805285771
+    },
+    {
+      "time_s": 1.0,
+      "L1_48_vs_96": 0.0034961696574503094,
+      "total_UV_flux_relative": -2.929395128725698e-05,
+      "physical_CIV_sum": 7201790.378533635
+    },
+    {
+      "time_s": 2.0,
+      "L1_48_vs_96": 0.007960251005635596,
+      "total_UV_flux_relative": -1.7578066291323857e-05,
+      "physical_CIV_sum": 6520068.761966512
+    },
+    {
+      "time_s": 3.0,
+      "L1_48_vs_96": 0.007576097104161627,
+      "total_UV_flux_relative": 2.1776354424130062e-06,
+      "physical_CIV_sum": 5952717.769798818
+    },
+    {
+      "time_s": 4.0,
+      "L1_48_vs_96": 0.0027672955549566734,
+      "total_UV_flux_relative": 2.1391541451531992e-06,
+      "physical_CIV_sum": 4260019.023285567
+    },
+    {
+      "time_s": 5.0,
+      "L1_48_vs_96": 0.009615878175628501,
+      "total_UV_flux_relative": -1.4159497130350474e-08,
+      "physical_CIV_sum": 4353091.506364485
+    },
+    {
+      "time_s": 6.0,
+      "L1_48_vs_96": 0.022820322517772683,
+      "total_UV_flux_relative": 2.555172792018112e-06,
+      "physical_CIV_sum": 5086819.484000041
+    },
+    {
+      "time_s": 7.0,
+      "L1_48_vs_96": 0.0019518809506012084,
+      "total_UV_flux_relative": -5.258127461560402e-05,
+      "physical_CIV_sum": 7238755.3543485245
+    },
+    {
+      "time_s": 16.0,
+      "L1_48_vs_96": 2.3926539098088515e-05,
+      "total_UV_flux_relative": -1.0538541150850733e-09,
+      "physical_CIV_sum": 9312793.524622405
+    },
+    {
+      "time_s": 31.99,
+      "L1_48_vs_96": 2.866547122253748e-05,
+      "total_UV_flux_relative": -1.035197150223155e-09,
+      "physical_CIV_sum": 8335419.632386218
+    },
+    {
+      "time_s": 32.0,
+      "L1_48_vs_96": 2.3733142099642655e-05,
+      "total_UV_flux_relative": -1.0493171886949426e-09,
+      "physical_CIV_sum": 8587647.798984932
+    }
+  ],
+  "maximum_depth_quadrature_L1_48_vs_96": 0.022820322517772683,
+  "projection_reuse_provenance": {
+    "report_sha256": "4238a5f241e756c2fa551f3cc98f17c43f1db7fb142aeedb17f589132a2711c5",
+    "all_projection_settings_matched": true
+  },
+  "world_anchoring": {
+    "actual_surface_and_active_map_frozen_time_return_errors": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "atmospheric_centers_star_fixed": [
+      [
+        0.3835478227345365,
+        0.0007342960716360258,
+        0.923520724447955
+      ],
+      [
+        -0.4674557816029269,
+        -0.29125794430932367,
+        -0.8346579551664883
+      ]
+    ],
+    "camera_azimuth_never_used_for_atlas_hash": true,
+    "physical_source_times_optical": [
+      3852.4,
+      4492.4
+    ],
+    "physical_source_times_CIV": [
+      974,
+      1614
+    ],
+    "note": "Only the viewpoint repeats; evolving source radiation and the independent physical rotation do not reset"
+  },
+  "grading": {
+    "max_absolute_pre_tone_linear_Y_error": 1.7763568394002505e-15,
+    "fixed_initial_limb_reference": true,
+    "per_frame_auto_exposure": false,
+    "relative_intensity_knots": [
+      0.65,
+      1.0,
+      1.9
+    ],
+    "gain_vectors": [
+      [
+        1.38,
+        0.75,
+        0.075
+      ],
+      [
+        1.28,
+        0.9,
+        0.13
+      ],
+      [
+        1.08,
+        1.0,
+        0.65
+      ]
+    ],
+    "UV_false_color_linear_RGB": [
+      1,
+      0.23,
+      0.035
+    ]
+  },
+  "photospheric_output_sampling_1_vs_4_post_imaging_RMS_relative_to_mean": 0.015329490204649333,
+  "limitations": [
+    "Independent local models, not a global MHD solution",
+    "The two finite 2.5D UV sheets can look sheet-like as the camera orbits; no artificial billboarding",
+    "Prescribed 10x magnification, contrast, golden grading and optical halo",
+    "UV ionization, opacity and temporal reconstruction limits unchanged",
+    "Four camera orbits are seamless; the evolving physical state is not a repeated 8-second clip or a closed 32-second loop"
+  ]
+}

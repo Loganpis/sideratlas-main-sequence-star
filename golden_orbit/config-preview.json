@@ -1,0 +1,146 @@
+{
+  "name": "SiderAtlas No.004 \u2014 THE MAIN-SEQUENCE STAR",
+  "width": 540,
+  "height": 960,
+  "fps": 15,
+  "seconds": 8,
+  "full_reel_seconds": 32,
+  "center_fraction": [
+    0.5,
+    0.565
+  ],
+  "radius_fraction_of_width": 0.405,
+  "supersample": 2,
+  "limb_supersample": 8,
+  "tile_rows": 64,
+  "camera": {
+    "motion": "uniform-orbit",
+    "inclination_deg": 67.0,
+    "azimuth_start_deg": -15.0,
+    "revolutions": 4
+  },
+  "source_start_s": 3852.4,
+  "physical_seconds_per_display_second": 20,
+  "spatial_magnification": 10,
+  "granulation_contrast_exponent": 3.25,
+  "optics": {
+    "airy_first_zero_550nm_at1080": 1.2,
+    "jitter_sigma_at1080": 0.2,
+    "moffat_alpha_at1080": 105,
+    "scatter_fraction": 0.06,
+    "halo_display_gain": 5.5,
+    "exposure": 2,
+    "tone_mapping": "smooth-max-rgb",
+    "extra_halo_outside_disk_only": true,
+    "halo_mask_center_fraction": [
+      0.5,
+      0.565
+    ],
+    "halo_mask_radius_fraction_of_width": 0.405
+  },
+  "active_region": {
+    "dataset": "Cheung et al. 2018 MURaM outgoing gray intensity",
+    "spatial_magnification": 10,
+    "contrast_exponent": 3,
+    "center_camera_at_start": [
+      0.04,
+      0.02
+    ],
+    "source_center_Mm": [
+      49.152,
+      24.576
+    ],
+    "apodization_Mm": [
+      16,
+      20
+    ],
+    "core_half_extent_Mm": [
+      39.552,
+      17.472
+    ],
+    "outer_half_extent_Mm": [
+      48.96,
+      24.384
+    ],
+    "baseline_sigma_native_pixels": 5
+  },
+  "stream_source_maps": false,
+  "reconstruction": {
+    "method": "overlapping local MHD tiles on six charts",
+    "seed": 41004,
+    "pitch_Mm": 19.2,
+    "window_half_width_Mm": 12.0,
+    "independent_time_phases_s": [
+      0,
+      60,
+      120,
+      180,
+      240,
+      300
+    ],
+    "fixed_quarter_turns": true,
+    "fixed_periodic_translations": true
+  },
+  "color_grade": {
+    "relative_intensity_knots": [
+      0.65,
+      1.0,
+      1.9
+    ],
+    "linear_rgb_gains_at_knots": [
+      [
+        1.38,
+        0.75,
+        0.075
+      ],
+      [
+        1.28,
+        0.9,
+        0.13
+      ],
+      [
+        1.08,
+        1.0,
+        0.65
+      ]
+    ],
+    "preserve_linear_luminance": true,
+    "reference": "Fixed initial calculated mean limb intensity, including existing gravitational redshift",
+    "purpose": "Fixed amber lanes, golden midtones and warm-white bright granules; no invented spatial structure"
+  },
+  "atmosphere": {
+    "source": "Bifrost en096014_gol, actual 2.5D thermodynamic sequence",
+    "band_A": null,
+    "source_start_s": 974,
+    "spatial_magnification": 10,
+    "invariant_depth_Mm": 6,
+    "depth_samples": 48,
+    "patch_camera_vectors_at_start": [
+      [
+        0.995,
+        0.1,
+        0.02
+      ],
+      [
+        -0.91,
+        -0.4,
+        0.02
+      ]
+    ],
+    "display_gain": 0.8,
+    "false_color_linear_rgb": [
+      1,
+      0.23,
+      0.035
+    ],
+    "optical_depth": "Optically thin hot phase; photosphere opaque; cool-phase EUV absorption omitted",
+    "lines_A": [
+      1548.187,
+      1550.772
+    ],
+    "intensity_reference_erg_cm2_s_sr": 100000.0,
+    "display_asinh_width_erg_cm2_s_sr": 10000.0,
+    "radial_display_e_fold_R": 0.04,
+    "radial_display_gain_cap": 20
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "formal_solver_isothermal_max_error": 0.0,
+  "linear_source_max_error": 4.758065808019296e-08,
+  "limb_darkening": [
+    0.3935040723055435,
+    0.5685004103353306,
+    0.7417122702504145,
+    0.8797082516257182,
+    1.0
+  ],
+  "finite_positive_RGB": true,
+  "disk_center_broadband_rms_contrast": 0.16668530140716714,
+  "checks": "Analytic constant and linearly varying source functions; no MHD convergence claim"
+}

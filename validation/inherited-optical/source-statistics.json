@@ -1,0 +1,71 @@
+{
+  "source": "Carlsson et al. 2016 Bifrost en024048_hion",
+  "snapshot": 385,
+  "source_teff_K": 5773.0,
+  "solar_g_m_s2": 274.0,
+  "grid_horizontal_km": 47.619,
+  "grid_photosphere_vertical_km": 19.426345825195312,
+  "selected_height_Mm": 0.05637054145336151,
+  "velocity_Bunit": "archived SI: m/s and tesla",
+  "vertical_speed_rms_km_s": 2.168923583984375,
+  "vertical_speed_percentiles_km_s": [
+    -4.612179443359375,
+    -0.08295436477661133,
+    4.160999560546877
+  ],
+  "mean_unsigned_vertical_B_G": 25.190592277795076,
+  "vertical_B_abs_99_G": 476.2844834476713,
+  "continuum_upflow_correlation": 0.8660415948544622,
+  "continuum_contrast": 0.16668530140716714,
+  "granule_threshold_diameter_median_km": 1010.9629237497446,
+  "granule_threshold_diameter_10_90_km": [
+    461.8419922395268,
+    1833.1839682267487
+  ],
+  "intensity_power_shell_peak_scale_Mm": 1.1602753195673552,
+  "segmentation_definition": "connected components above median of sigma=1-pixel smoothed native continuum map; >=9 samples; diagnostic only",
+  "no_sunspot_model": true,
+  "energy_validation_scope": "Published relaxed radiation-MHD model near solar Teff; no independent full MHD resolution or energy-closure test from these cropped snapshots",
+  "same_position_temporal_correlation": {
+    "lag_s": [
+      0.0,
+      20.0,
+      40.0,
+      80.0,
+      120.0,
+      160.0,
+      200.0,
+      240.0,
+      280.0,
+      320.0,
+      360.0,
+      399.9899999999998,
+      439.9899999999998,
+      479.9899999999998,
+      519.9899999999998,
+      559.9899999999998,
+      599.9899999999998,
+      639.9899999999998
+    ],
+    "correlation": [
+      0.9999994274606377,
+      0.9795689164840083,
+      0.9271958586850444,
+      0.7716371700776116,
+      0.601406604163981,
+      0.45645743363576075,
+      0.33825274154485574,
+      0.26505024881849226,
+      0.22044520945290413,
+      0.18683092828531903,
+      0.15367112513473108,
+      0.12031399718259482,
+      0.09090228146518466,
+      0.07320675561509865,
+      0.06770604751416326,
+      0.06739877691812371,
+      0.06959049547298331,
+      0.06577697017436292
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+The verified final Reel is a [v3.1.0 release asset](https://github.com/Loganpis/sideratlas-main-sequence-star/releases/tag/v3.1.0). The full ZIP bundle includes the MP4 here. The source repository retains the cover image and keeps the large video out of Git history.

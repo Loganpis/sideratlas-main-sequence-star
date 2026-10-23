@@ -1,0 +1,3213 @@
+{
+  "model": "Bifrost en024048_hion",
+  "paper": "https://doi.org/10.1051/0004-6361/201527226",
+  "archive": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/",
+  "raw_arrays_redistributed": false,
+  "records": [
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_385.fits",
+      "variable": "lgtg",
+      "snapshot": 385,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "5ee10fe4d4305792066b08e0bb56ba7e51d59d2259b984a7e4c711cf7cbbbe18",
+      "file_sha256": "e2e8a173944ff811a8d54058a37b2982b2006ecef9ebb085167e49edee58768a",
+      "time_s": 3850.0,
+      "source_teff_K": 5773.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_385.fits",
+      "variable": "lgne",
+      "snapshot": 385,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "38a00d5bcf6cd20656717708ae4d39e601d40c289e9ca624d9be517674bb0a30",
+      "file_sha256": "8d6e2a6704324a1944cf25fe77c29114963e352c0d79a4443d7a392df8e12af0",
+      "time_s": 3850.0,
+      "source_teff_K": 5773.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_385.fits",
+      "variable": "lgn1",
+      "snapshot": 385,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "90792a468be44004bcabb1a03819b9bf1362e106a212b86f05510d715a854ddc",
+      "file_sha256": "5883c3796f348ad78214e7192c419f6dc9b534b874197eb9f8826fe92100f9fe",
+      "time_s": 3850.0,
+      "source_teff_K": 5773.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_387.fits",
+      "variable": "lgtg",
+      "snapshot": 387,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "cb455e449f6fcb7e49149229100cb4a25a19e36c3468f693d4839efee7995695",
+      "file_sha256": "9d405a6a195633f25659c3324dfab3b5beb56bfb07c7a36b64f58cf101021f9f",
+      "time_s": 3870.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_387.fits",
+      "variable": "lgne",
+      "snapshot": 387,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "aa9803bd2fa807e0ac8ce1b06653023565fbef2c5a7da6f0049e0f1a710df4b4",
+      "file_sha256": "5af320c055c893c207d7037c265253745ac80af8068f4a39e2350c4630fb2fae",
+      "time_s": 3870.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_387.fits",
+      "variable": "lgn1",
+      "snapshot": 387,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "a6a4b6b8991ccbc7e33bb5fc7cfb94ba34d38078fc5be5a9d76538590fc34c4e",
+      "file_sha256": "fb8f67bf230405f16d5066e1f254cc6857749e8d8d98c9eef9ab9571441fa880",
+      "time_s": 3870.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_389.fits",
+      "variable": "lgtg",
+      "snapshot": 389,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "bfe7a47292efaf40f5524559b92e4ff9b4c606fd5f0eb52041dc582ce07f55a9",
+      "file_sha256": "630c7a2f3885188b74c5ab84a9ce4dd00ab5de4e7f1552564d835e2eeef0a783",
+      "time_s": 3890.0,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_389.fits",
+      "variable": "lgne",
+      "snapshot": 389,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "0654de290e92b1389a416dab8f462dbcbae83846ceba999052b64388083f51da",
+      "file_sha256": "82747e2d92f2b42c24fce5c14a2a879ea3244298a6048e98840704956895c12e",
+      "time_s": 3890.0,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_389.fits",
+      "variable": "lgn1",
+      "snapshot": 389,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e0941fd54f410bb8d0429f1494f0b23e9c7fa8b5f8c1bead8060a70716d70a12",
+      "file_sha256": "7d5d21c4f76033a9f425c311c1afe0eb6b83cd4848646f0d6c8b2f4b06b1fb9b",
+      "time_s": 3890.0,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_393.fits",
+      "variable": "lgtg",
+      "snapshot": 393,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "aca8c48929b71c8daaff0f040860025dd7c35fc853175e0de163c15ebc6a7aee",
+      "file_sha256": "d4f72b0943f54a183ddcca59802c83ad198856c5f68350fd7bd8fd1a3bcadee1",
+      "time_s": 3930.0,
+      "source_teff_K": 5771.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_393.fits",
+      "variable": "lgne",
+      "snapshot": 393,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "19ba0f9cd2391498a8be55397e105d117605506cddcfa561a754a1b8b9ad11d9",
+      "file_sha256": "dcacd6e62ed86a4fb2ce1a19b1424a09809375fa80030ea98876dcd9097bb6d2",
+      "time_s": 3930.0,
+      "source_teff_K": 5771.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_393.fits",
+      "variable": "lgn1",
+      "snapshot": 393,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "f1be3f6fbfafbe269370aa8ac52661aa45c733dca95e3d892d33013f085a1856",
+      "file_sha256": "39bf8b68358a09d1b0d30c7560ecd0d7babaae81604d09ac62c5217ce6535e52",
+      "time_s": 3930.0,
+      "source_teff_K": 5771.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_397.fits",
+      "variable": "lgtg",
+      "snapshot": 397,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "1b01454c2af01e3fe432859675c38d6a2b8374bb5ef49561358096e317488aa5",
+      "file_sha256": "66da4c36c423e5a12790928a5beffc4b4fbc4d70bcb79f61857ca5d3d5bdc098",
+      "time_s": 3970.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_397.fits",
+      "variable": "lgne",
+      "snapshot": 397,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "3a40805b54303c3182140875f434e6be8ff6c321e496a267d798262c60c08210",
+      "file_sha256": "b68bb3ae90a93ec1212eb40c3c63ed2598452a09d7b8f5a0314814d19a328b8c",
+      "time_s": 3970.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_397.fits",
+      "variable": "lgn1",
+      "snapshot": 397,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "0b3ef1fec7c8ee059e9556c331992db60216d0bc4effebf3e85725ed45de61f7",
+      "file_sha256": "6b20a1b09ac8b10d4a7ba006e64488eec35d08ab16822e7b49073440b5c2db07",
+      "time_s": 3970.0,
+      "source_teff_K": 5774.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_401.fits",
+      "variable": "lgtg",
+      "snapshot": 401,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "4bad1b6292c936878812de7bc50b79cb237ac18bca3feea3785dc1600b77ed18",
+      "file_sha256": "9a9321b391f7ef6ce4eb9ea89b87564d02d2dbe7b0c95e13ee5c585914e76889",
+      "time_s": 4010.0,
+      "source_teff_K": 5780.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_401.fits",
+      "variable": "lgne",
+      "snapshot": 401,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "94333a62861a6742f87aa6612aaf066dd4f0a4fcd684617b0a7b6e895771b4a7",
+      "file_sha256": "359b0b60841b18d3da036d76cd53a946576ab915ede8565468eb0a39ee47e5e0",
+      "time_s": 4010.0,
+      "source_teff_K": 5780.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_401.fits",
+      "variable": "lgn1",
+      "snapshot": 401,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "8d01cedd9334542485d4e29b9a2e8bd7c36b23ad0ce9ef57c6256534bb6d6c43",
+      "file_sha256": "188d427c3599a03031d81a41af6c84f2ebc0d2b6b66c86b2b2c7fdb94185c55c",
+      "time_s": 4010.0,
+      "source_teff_K": 5780.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_405.fits",
+      "variable": "lgtg",
+      "snapshot": 405,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "29b9bd827ae3db90af38c2be4daef8726826023c4cbf42df1bc6f2fa02ab32ca",
+      "file_sha256": "e85b41042f8653baf45d74664e6fa591d9d2b534d9ace09c1754905c2a7e8dbd",
+      "time_s": 4050.0,
+      "source_teff_K": 5781.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_405.fits",
+      "variable": "lgne",
+      "snapshot": 405,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "8cf727a31817a5ac3179609111d8af389ab65dce1968e594539dfa2fce5a92ad",
+      "file_sha256": "13cbecc002b057e719615f987c4192305892f5424b247969c87501af326ec4bd",
+      "time_s": 4050.0,
+      "source_teff_K": 5781.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_405.fits",
+      "variable": "lgn1",
+      "snapshot": 405,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "fa0ad6636a8604293ded3928c5b263286a5449f113baabfbc562f540e0d04632",
+      "file_sha256": "9c80deaed0070fbd6b1e5cd4d3deb06ea9ca8d7c92b3f02441d59815c43732de",
+      "time_s": 4050.0,
+      "source_teff_K": 5781.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_409.fits",
+      "variable": "lgtg",
+      "snapshot": 409,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e783abbeece811b9597347a1d7f304be2902c2123a410a2ddcabbe278aaf02cc",
+      "file_sha256": "d3c4c8b15230a4f778712099a587f0d0181483462cdea4f46e8e8c216a295cfd",
+      "time_s": 4090.0,
+      "source_teff_K": 59680.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_409.fits",
+      "variable": "lgne",
+      "snapshot": 409,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "c86c1cc109fd662bbca57523dd931e09f958c69ef6d9ef551ca7ca9749b7b92f",
+      "file_sha256": "91edd1f7692ee5719182ff00a88ae2f5da88b232edf41118ba10334a878fd825",
+      "time_s": 4090.0,
+      "source_teff_K": 59680.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_409.fits",
+      "variable": "lgn1",
+      "snapshot": 409,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "d0cf0720e4fa225be6d6e53b250bc7b16b939c35ff97a42cf2a26069a54497df",
+      "file_sha256": "15fec16d14ead7e6c2f48e5602bdeae3d00f28c9eb4c9abaefa4290b6313b005",
+      "time_s": 4090.0,
+      "source_teff_K": 59680.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_413.fits",
+      "variable": "lgtg",
+      "snapshot": 413,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "620a86b8e691e22d8ebcb05d7d0bc84ff07f8e38b45f377975639db38a263361",
+      "file_sha256": "5057456ac0243b84e81eb95aaa087eaca76fd1d11ad12f605ea6a188b9ea6071",
+      "time_s": 4130.0,
+      "source_teff_K": 5748.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_413.fits",
+      "variable": "lgne",
+      "snapshot": 413,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "813458292afba768235263e027a23eab4d572947dd794bebede7f6e4b7eed3e0",
+      "file_sha256": "6673d1501339d6b6ee01bb5e7279dee9d24941aea327a6984672567ba4546945",
+      "time_s": 4130.0,
+      "source_teff_K": 5748.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_413.fits",
+      "variable": "lgn1",
+      "snapshot": 413,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "3187a839c8272b12719f6cdf3a3a26d23d76a09bf5896a356139c3a11002bc80",
+      "file_sha256": "0778b481d03f5b2a56de1085513868ec0b93a0a5d1ff8a6bccfbff8f5adf8b6e",
+      "time_s": 4130.0,
+      "source_teff_K": 5748.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_417.fits",
+      "variable": "lgtg",
+      "snapshot": 417,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "10a74d5c478264a1934f3db763ba24e44451c67ef2951c8f3e3d610dcbbb1073",
+      "file_sha256": "1bde24b75eba9cd667d21209d67b4ef267d324e20ca98a659673a7793dbe4632",
+      "time_s": 4170.0,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_417.fits",
+      "variable": "lgne",
+      "snapshot": 417,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "30eacded9ce557cbb0ecf9b6fc6eb0f2f9d47a655db57834d4639bd5bd6e6ec9",
+      "file_sha256": "cd8da8f6ad44cbe2aba2f815a87cbbc3f107e40df64330c4702e21e3ea7afa34",
+      "time_s": 4170.0,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_417.fits",
+      "variable": "lgn1",
+      "snapshot": 417,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "325d4deaf89b693295de5abe707f5ba8d3bead241aa2fd2a25fa9cb6bf56cf49",
+      "file_sha256": "8d2d41d590f63508e5f1b0c4a409337f7fe584aaeedd1ad6ef8ab4b74a9d79ce",
+      "time_s": 4170.0,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_421.fits",
+      "variable": "lgtg",
+      "snapshot": 421,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "118ac312e608abfa1402d4f98b6a84c2e9d1d33bed315b81677852503f0e2135",
+      "file_sha256": "16ba3fec7cb195759628010e3eb854cd8cd3b599602e3f937aa90f6f259cd112",
+      "time_s": 4210.0,
+      "source_teff_K": 5725.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_421.fits",
+      "variable": "lgne",
+      "snapshot": 421,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "53a03904f100309ba384e629c849356e4290491ff8660852aa9f8996dfcc5746",
+      "file_sha256": "7f07c3d1ea59f983e15580f434a11adb55f66e0da9eafc10b52a1f9696ec76e4",
+      "time_s": 4210.0,
+      "source_teff_K": 5725.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_421.fits",
+      "variable": "lgn1",
+      "snapshot": 421,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e3e55ee273ab50c7f00d3358078cf8f51c8d58e4bcb9bad9e0f1d341bf0142f3",
+      "file_sha256": "073c8daa62bbe0c4c64793c5d83937bcd4c97541347850b55384283176f99ff1",
+      "time_s": 4210.0,
+      "source_teff_K": 5725.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_425.fits",
+      "variable": "lgtg",
+      "snapshot": 425,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "64fc244f62e438fc1c76ed3e1dec358abc3ced9f6c07c55ae4f65718d8ef532f",
+      "file_sha256": "2c66d0b216092b6b77c2f3eb36f1edb9cfc968ce592f01a6bd7e9f60d8c2dfcf",
+      "time_s": 4249.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_425.fits",
+      "variable": "lgne",
+      "snapshot": 425,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "00e20f3b4dddff25b7c9c7f43d4ad1824c93ba84f140906b7cc2280c638412e5",
+      "file_sha256": "99143520082d05d5e519dc50cd2a76168be5d81a3713dccb351635a54df449e5",
+      "time_s": 4249.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_425.fits",
+      "variable": "lgn1",
+      "snapshot": 425,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "9c682b75ed904a60d287178709834ff311ea7567056c7b904f9f3b7e31aab20f",
+      "file_sha256": "e6227d3c82c5d4eebe8514d04c3ffea3dabb1bbc44de691b2b7f7885fb690f96",
+      "time_s": 4249.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_429.fits",
+      "variable": "lgtg",
+      "snapshot": 429,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "d7274e6574895d7582ca7e4206402baa6e5b1ddb0e8195b8e37738b44bd66d88",
+      "file_sha256": "a44248e9eaae1b6c6548837a562b917b0d3fa7b20b1be254713accf0d7cb7db3",
+      "time_s": 4289.99,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_429.fits",
+      "variable": "lgne",
+      "snapshot": 429,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "0f0edcd04ba584f479f4e2c3f5949ced6881a89addde660944e982db2f4eaa98",
+      "file_sha256": "5d6aaf7702cb4f3ffc53c89c32a2ad0b2fb3c567583c1ad6e66ebb9e6de0789e",
+      "time_s": 4289.99,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_429.fits",
+      "variable": "lgn1",
+      "snapshot": 429,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "d5b1f01734a132362688eabe3a722e030f1ddb96b3fcc9b87de3bd4c17168650",
+      "file_sha256": "0a3399442a85f5d18b5b9735d40fd338d22883f221f53da9901dca085120f17e",
+      "time_s": 4289.99,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_433.fits",
+      "variable": "lgtg",
+      "snapshot": 433,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "187c79bd11b4460bbcba53a077bbe96701301cc3fba19672c8b87d830a63d637",
+      "file_sha256": "de4987cd9caad570341787038f0530f225a87239e2e6dbf4dd1c0cd97d557751",
+      "time_s": 4329.99,
+      "source_teff_K": 5775.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_433.fits",
+      "variable": "lgne",
+      "snapshot": 433,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "ca42d24268d091cf253c7e8f956a50a2b87171d94bb3791debe86c08e72ad36f",
+      "file_sha256": "3c47ebdbcbdf0a784a1b0f7cf95d4e738fe2f19c3f69dcc6f6b03770fbe2f649",
+      "time_s": 4329.99,
+      "source_teff_K": 5775.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_433.fits",
+      "variable": "lgn1",
+      "snapshot": 433,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "76988811c35f8d5ae0ee3c41e6278ebdcfee55c26b9d3abfdf3a36ea65a1d373",
+      "file_sha256": "18dcb38b783d06f560aa2a6132bab68e622188f7a22bd9b667cf15b4736cacce",
+      "time_s": 4329.99,
+      "source_teff_K": 5775.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_437.fits",
+      "variable": "lgtg",
+      "snapshot": 437,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e31636a81bbeb771e7674a23eaee24647843660324454a911dd914dc83d435d3",
+      "file_sha256": "d6ac88ccba7ff526d7359c5d80ee38ece212e8cdf9126f797889665298295d9b",
+      "time_s": 4369.99,
+      "source_teff_K": 5789.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_437.fits",
+      "variable": "lgne",
+      "snapshot": 437,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "aa242b3225bc9a8952bf8e9e19bdf859c0ac7a35ac7a0d17f7fa1d6d74e31e5f",
+      "file_sha256": "2c1277349d70924a1829e0951c1ab9384afa22775dc2632305ee466acee06992",
+      "time_s": 4369.99,
+      "source_teff_K": 5789.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_437.fits",
+      "variable": "lgn1",
+      "snapshot": 437,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "69cb696278c75b7669b1cb76df6f4c0feb10d2e3df00d633b905898ffa1a5015",
+      "file_sha256": "59b24932f81ae77756e7e1dab82552da8cc3abd720abeb135e09a7c749c1831e",
+      "time_s": 4369.99,
+      "source_teff_K": 5789.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_441.fits",
+      "variable": "lgtg",
+      "snapshot": 441,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "9d2984af8dd0936ffd1b31eba7dc7bb614e9d632e37293aebb69526f539db2b9",
+      "file_sha256": "0648838c6f6b053245d84a615972d264347bfff1f479668f5fd4aa12c1434bd2",
+      "time_s": 4409.99,
+      "source_teff_K": 5793.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_441.fits",
+      "variable": "lgne",
+      "snapshot": 441,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "f0f1cc78b481b539648125e6fe3b4240bdfb034fe237735e925d6674c23c918d",
+      "file_sha256": "21cff89f23e66da753109932eccf918f54047961e6555501a797ab03a167ca39",
+      "time_s": 4409.99,
+      "source_teff_K": 5793.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_441.fits",
+      "variable": "lgn1",
+      "snapshot": 441,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "4ec38b77c8d81591a3e40c5b50b662b113548f7a406c7c4ff4ee578cadf05471",
+      "file_sha256": "6ef74d20228137026e61f1faf6f74f1470c14014bdfa0a67cb7ac0987a7019c4",
+      "time_s": 4409.99,
+      "source_teff_K": 5793.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_445.fits",
+      "variable": "lgtg",
+      "snapshot": 445,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "216531117186c798a4a5684d0e8f5628999126b55263a1fe58ec97e4c8aca823",
+      "file_sha256": "3db1dbb6c9a3218bc48aaa0654493c124b9450d2ec24ef344268f8b7f55969ae",
+      "time_s": 4449.99,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_445.fits",
+      "variable": "lgne",
+      "snapshot": 445,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "a55e2257c8a86205ea3913823284621dbee4c04e2060143df2481bc4d3c83b54",
+      "file_sha256": "9b4965dba23d06da522669787e847c34e00f35b13b054ebcce19029ab426dfbe",
+      "time_s": 4449.99,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_445.fits",
+      "variable": "lgn1",
+      "snapshot": 445,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "36598a5218d6880e322e858a421018fa6b635522da95e93a5f2596914a2c10c7",
+      "file_sha256": "56e7b44d1a77b005025817b77e6bf05d91e86a7840b8e6c59639b88c736a6fed",
+      "time_s": 4449.99,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_449.fits",
+      "variable": "lgtg",
+      "snapshot": 449,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "20cc84d8237a5bfc9b952b6956a951c9891d19f48a207226b8e37285b68b1cdc",
+      "file_sha256": "7e7975e3e19abf2b9c7fa710f730ae05ba337ba00cee8233730e6a0fd39c1eb6",
+      "time_s": 4489.99,
+      "source_teff_K": 5765.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_449.fits",
+      "variable": "lgne",
+      "snapshot": 449,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "df0e0cc13f0961192f5062b967456c62774ae1b059765da2f14e090a2c2cb42d",
+      "file_sha256": "7a602c262bf2e09e33358a00a013d5932066e8befa91f0148c184e9a16cfa367",
+      "time_s": 4489.99,
+      "source_teff_K": 5765.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_449.fits",
+      "variable": "lgn1",
+      "snapshot": 449,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "56f714b360765f326c72ae86698b3a07d073654cfcfabe40236ee431ecefd6ba",
+      "file_sha256": "87c584969a6b039d41e7ea65f4c22b6c72422bebdb7f317459c65d2d6994298c",
+      "time_s": 4489.99,
+      "source_teff_K": 5765.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_453.fits",
+      "variable": "lgtg",
+      "snapshot": 453,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "9b8ef38e726d0772f044e15adf81bade221c10aa98298ca8afcc40f96aa83a0e",
+      "file_sha256": "378681cc08823cfb9446cc5809c370d81c036b4154eeed81cc43af4277c0fc83",
+      "time_s": 4529.99,
+      "source_teff_K": 5745.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_453.fits",
+      "variable": "lgne",
+      "snapshot": 453,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "91c5d1d4ff333e519d58daa6f87228c5e744cad563b96956cf4b8a153093bfcd",
+      "file_sha256": "96dd7b45685a7a82f1d3881dece7f71c5a2190d60cce19c2f7e2eec017e41733",
+      "time_s": 4529.99,
+      "source_teff_K": 5745.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_453.fits",
+      "variable": "lgn1",
+      "snapshot": 453,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "91f9538e4e148f5403e296c4abf77a47d575f9485bc86c83177f18d439c3c806",
+      "file_sha256": "f2c5bf476a6724e24f8760ecd9566da699b39a486cc5ba61ceea4dd50229ed57",
+      "time_s": 4529.99,
+      "source_teff_K": 5745.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_457.fits",
+      "variable": "lgtg",
+      "snapshot": 457,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "87e062166f72896b1bb89badb29b14cb1dedeef50a72c1254b05113504a1bd42",
+      "file_sha256": "3efd662d4d0ee30c59311d74b960e509c391187e556f5bd922bea1de7897a748",
+      "time_s": 4569.99,
+      "source_teff_K": 5734.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_457.fits",
+      "variable": "lgne",
+      "snapshot": 457,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e59b1bec0bb3909e42580c4b05f2ce2d87c8facfe3530799597ec02d99e8bce2",
+      "file_sha256": "06acbf1fa64038f953b15c2e6a9ff93225a64f7a56feb89da9129c1f0e60259b",
+      "time_s": 4569.99,
+      "source_teff_K": 5734.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_457.fits",
+      "variable": "lgn1",
+      "snapshot": 457,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "3d4f96ef88d816abedc973cd8f7bf29c322281f0fa3f4c0f17e9ec34d11cb203",
+      "file_sha256": "683602ce4d7b3fcd86b0b16200d6ac49b5b52bed7b573f398a0823dab96d6a21",
+      "time_s": 4569.99,
+      "source_teff_K": 5734.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_461.fits",
+      "variable": "lgtg",
+      "snapshot": 461,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "d68d3909e0c050cad24d9e0b76491242c66f76d49646be0180aee2e54e35fcee",
+      "file_sha256": "62ec92d01dbf5d986f465743ce74ef66146e5057bd476884c080897746dd4ff3",
+      "time_s": 4609.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_461.fits",
+      "variable": "lgne",
+      "snapshot": 461,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "1f5f571666429309c72655987325e3d55672fc5e7db8f0168fe0f995cc258112",
+      "file_sha256": "2e501a85e8315a437dba475c5bc8e7a768f49c5060f979fb194d6cb23ec4182a",
+      "time_s": 4609.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_461.fits",
+      "variable": "lgn1",
+      "snapshot": 461,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "1f0c91062e82e40420eacf01bcc83441679b34abf7f0ad8384da979dde7502a0",
+      "file_sha256": "d27151c2a30eba5ab995dbe4ca18982e08a7dcfd03dd528e9aae4e54a14a0090",
+      "time_s": 4609.99,
+      "source_teff_K": 5735.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_465.fits",
+      "variable": "lgtg",
+      "snapshot": 465,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "db4a3251f9e0a8b50338c147f8fbb07b420f7c9135a18072bac918ff4cfb873e",
+      "file_sha256": "133fb1e5f0919dc07a4674545506ad41af27c4c9cd13f902208c05bd1ae65dd3",
+      "time_s": 4649.99,
+      "source_teff_K": 5743.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_465.fits",
+      "variable": "lgne",
+      "snapshot": 465,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "9e8720bc4e57b2c1456b71331251c0f03c0d4a7ad005b9fb8a8786657f5779b8",
+      "file_sha256": "3daa2b425329855afa87f0270ce6fb49d036e38e754e9ee3e3e9acadbd7acefd",
+      "time_s": 4649.99,
+      "source_teff_K": 5743.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_465.fits",
+      "variable": "lgn1",
+      "snapshot": 465,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e25afd9fa6b8862048b53c04708dcecd102186353e89f10711dca545eaa7bacd",
+      "file_sha256": "98a8a572a31c13cd75e2ecf9366ef0dee55d8ce97983ad80f039092dc4f40cb6",
+      "time_s": 4649.99,
+      "source_teff_K": 5743.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_469.fits",
+      "variable": "lgtg",
+      "snapshot": 469,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "8c890d0110b12a91908b37a59726e4615598e036344e380f00fceba8f83379ef",
+      "file_sha256": "2aa7118570adda286315114641b11e5ff11270cde775466f0c44a3947dce1c0e",
+      "time_s": 4689.99,
+      "source_teff_K": 5753.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_469.fits",
+      "variable": "lgne",
+      "snapshot": 469,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "96d4208462365419f2113f51a2e0078a2b961c75622da91d6d7e33eb495382b7",
+      "file_sha256": "eb03141a5d0a1c8d2c0d76b512901b4b00187fd15f856d3fae8fb7817ddce13e",
+      "time_s": 4689.99,
+      "source_teff_K": 5753.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_469.fits",
+      "variable": "lgn1",
+      "snapshot": 469,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "36997179322cba96e56827f8b07b7d41259aa6e32b67786e8be77143ada33776",
+      "file_sha256": "7585ff2a6306edb97708897dea4de5d71d54416628ccbcb87f6812728a945e76",
+      "time_s": 4689.99,
+      "source_teff_K": 5753.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_473.fits",
+      "variable": "lgtg",
+      "snapshot": 473,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "87fd276f220825b9da1fa1b6bb5a460f3603e1328a36bd43625bc5bb9937a6a0",
+      "file_sha256": "79f4eaeacaf1f6167d4f60f82a74eeb8a614497c44bd48c5c0b87227a8515cf5",
+      "time_s": 4729.98,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_473.fits",
+      "variable": "lgne",
+      "snapshot": 473,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "4292d0589ec3fe9dcb778f6d802a252840ec9f002a5103c005fa1e0300f0de62",
+      "file_sha256": "939c40c353493ff3e1f21afef8f4bb51a1c2cf20ea9f2244bd6436a65d54eb4d",
+      "time_s": 4729.98,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_473.fits",
+      "variable": "lgn1",
+      "snapshot": 473,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "5b012d57ea51a1400ec8c52a2ebcc1d3ac46bb2eb5ac867c9729d8e00e999115",
+      "file_sha256": "e67aa3ab270aeaa66c7c2ec7b3cd41613e42188a91aea7bdba5dffe226fa831b",
+      "time_s": 4729.98,
+      "source_teff_K": 5756.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_477.fits",
+      "variable": "lgtg",
+      "snapshot": 477,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "4e77103fed871b0d83c4481a2229be6005ab2528b5daf15b3abc7e5b6815f895",
+      "file_sha256": "ccf620af6dc09e5b16bba1c80ad0cdd29b7e8b4f4aa757acd690b0d928987d3b",
+      "time_s": 4769.99,
+      "source_teff_K": 5759.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_477.fits",
+      "variable": "lgne",
+      "snapshot": 477,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "441c46f89b1e92964a5850574c3329e761c99f2ccb662016905e204c7da178f7",
+      "file_sha256": "12d500f8cae1f9ddc0c1ec6a5e21b508c23936f94a98c522c5124bb730106841",
+      "time_s": 4769.99,
+      "source_teff_K": 5759.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_477.fits",
+      "variable": "lgn1",
+      "snapshot": 477,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "baca0d099c5b7b1d24d4532bdd576a95617e112e47ef1d6da7b775e7515bcae0",
+      "file_sha256": "f922def3ad2392485b0cb625db036b62e3d83613c5b77de22552c4027c5a8051",
+      "time_s": 4769.99,
+      "source_teff_K": 5759.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_481.fits",
+      "variable": "lgtg",
+      "snapshot": 481,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "6535f1d478fce55180598c74b58ff8cc4bb5e08824eedb5206c87a2b46e81a29",
+      "file_sha256": "0b2f40397c4508438c1748c211370a2b93900e9c7b271aeccba0c8031d779adb",
+      "time_s": 4809.98,
+      "source_teff_K": 5767.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_481.fits",
+      "variable": "lgne",
+      "snapshot": 481,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "57cd6afbf5e09a3bb36cf82e9ac1882f0598efa513a593a90ec8a9b3382effbb",
+      "file_sha256": "70cf005948107fdd38477d8bd54c0f300a56d5f12415d01b9d2efd114ef8bc78",
+      "time_s": 4809.98,
+      "source_teff_K": 5767.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_481.fits",
+      "variable": "lgn1",
+      "snapshot": 481,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "b0f79538305a3d2be18946c85c32c0d41dc568ea2171e15d3182916ca1e27d9c",
+      "file_sha256": "7bcbbd59a330cce8b07904bcec8a13cad867971f9972fc66b34b2e58972a6c70",
+      "time_s": 4809.98,
+      "source_teff_K": 5767.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_485.fits",
+      "variable": "lgtg",
+      "snapshot": 485,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "dad5898d936416cffb32ea02de98567ec63117e428369ba1feb5db1f8580eb74",
+      "file_sha256": "97f0ff660b53a8580b86173409c152de99d0358886ac14e405992b157716447f",
+      "time_s": 4849.99,
+      "source_teff_K": 5778.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_485.fits",
+      "variable": "lgne",
+      "snapshot": 485,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e0af4e5571293bcfac3eabf7dcbccd6cad50da803953c43286d02364fdfa016c",
+      "file_sha256": "a46cac0a146f7013fbd66b4f0f71f677e879dfc4416315baefd955e63a1efac0",
+      "time_s": 4849.99,
+      "source_teff_K": 5778.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_485.fits",
+      "variable": "lgn1",
+      "snapshot": 485,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "16325d43659a63ef5309c9f17291727e0fb293d5a712721facb5a35d9f2ab9fe",
+      "file_sha256": "707dedab967a3bbfcb5a112ceb1f10128f92564da9bde0e0bcf1c989b9d527f3",
+      "time_s": 4849.99,
+      "source_teff_K": 5778.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_489.fits",
+      "variable": "lgtg",
+      "snapshot": 489,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "cae8c3f686ca3f6d72f00a649808f3c29f95e847b4642ef72a1f4c76936e9462",
+      "file_sha256": "2ed6a1c50eb3b7292cf652934f9e6257d4aa3ff73140bce9434090ce1764a2a0",
+      "time_s": 4889.98,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_489.fits",
+      "variable": "lgne",
+      "snapshot": 489,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "1f1f3b31ba90e59bfee746a15689572618d30ee3cab99712ccbd6895b4003a42",
+      "file_sha256": "1d6ea08d1d49466dae78ac36dce333c6867579b589a1ef0c52d6f037cae95eeb",
+      "time_s": 4889.98,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_489.fits",
+      "variable": "lgn1",
+      "snapshot": 489,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "3e997d32bd71af23cbc709da867bbe0da2cba590a1ea461b15db80b0b7798b5b",
+      "file_sha256": "d8b5657774bb9c50a36be15c1f295bba75d0b3f2cb31533128fd73f4819790c3",
+      "time_s": 4889.98,
+      "source_teff_K": 5785.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_493.fits",
+      "variable": "lgtg",
+      "snapshot": 493,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "04f0b8c6e12b42d6ada5dda1f9c86354defe4aa3ba6df8ff2ecc3972564abe4d",
+      "file_sha256": "27bf9c4cae80d7b41bc8f09f58dda054b7221f95db948a4221d3cd54c3f8b879",
+      "time_s": 4929.98,
+      "source_teff_K": 5779.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_493.fits",
+      "variable": "lgne",
+      "snapshot": 493,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "31c4adfaa348a2e81b04e8c941a30ec8d58510614e1ce9e000303247eebe594b",
+      "file_sha256": "f417cff76712fed1852eb6a4835db0dc7153006d485df5c9742a1910f04b2a8e",
+      "time_s": 4929.98,
+      "source_teff_K": 5779.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_493.fits",
+      "variable": "lgn1",
+      "snapshot": 493,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "32e95dc17e70a14140caee7cc6c7185b04efd76eef47585a7373645431838136",
+      "file_sha256": "42c19baad95ff36cfb69bb22200e95256b1f36e0c540c9e0227c06b0905fe664",
+      "time_s": 4929.98,
+      "source_teff_K": 5779.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_497.fits",
+      "variable": "lgtg",
+      "snapshot": 497,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "ae3b2f215c464e84c1c07c184acebbd979dd71929d5e6a8e331d80c524b4973d",
+      "file_sha256": "c6ee047be1a1415976a94ed4807845d9be8299648033773a3097fb7d2ad37a70",
+      "time_s": 4969.99,
+      "source_teff_K": 5761.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_497.fits",
+      "variable": "lgne",
+      "snapshot": 497,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "82e80d23c3248df65f98ed25489aa13ea1b0dad63fb3352392746355cc54d30b",
+      "file_sha256": "30e9d9c80eba6ce7a319bbc8c4765d1576df75dfe06ed9c2c1a458af13df0b92",
+      "time_s": 4969.99,
+      "source_teff_K": 5761.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_497.fits",
+      "variable": "lgn1",
+      "snapshot": 497,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "6ff9dbedf5f50b1431d72f2a3f30c990435e6745dfba78218bceb0d463acffc9",
+      "file_sha256": "33798366c969440c3617a37ac0532a536446910fdeff97c6e1a8af6bae57cf1b",
+      "time_s": 4969.99,
+      "source_teff_K": 5761.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_501.fits",
+      "variable": "lgtg",
+      "snapshot": 501,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "17fa0d368bce034e7d31967989e33c2f9bc2440af7799353a0df51a07bf199dc",
+      "file_sha256": "fdb021ced41d3f6867539b24ec0153aa79f5b80208cbea87f5fcaf7ce63fb9df",
+      "time_s": 5009.98,
+      "source_teff_K": 5739.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_501.fits",
+      "variable": "lgne",
+      "snapshot": 501,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "a4d54751c88c9556a811fef96eef2cf7e149e6e9d486124ffe67f64cde7e3c7a",
+      "file_sha256": "10d169e6937d7f26ed8863818dadbb5c5b0f21b24025a75b0656b8bf71b6db80",
+      "time_s": 5009.98,
+      "source_teff_K": 5739.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_501.fits",
+      "variable": "lgn1",
+      "snapshot": 501,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "35d535e27dba9fb943f98d0973687fb006bb4939a09fe8f493aab9876af19785",
+      "file_sha256": "8d5eea4d85f35ca04c79849660bbeecd0ffaba4ab18ed9ed76dc6d16771c59cd",
+      "time_s": 5009.98,
+      "source_teff_K": 5739.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_505.fits",
+      "variable": "lgtg",
+      "snapshot": 505,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "f4d08ed0cfcb65681e2b09653c14c826e35725e791337abd952d2c5eea9a41e3",
+      "file_sha256": "5b8c4de5a8f0ac9c4923cf4eb29b0ccdfd6a19dd907379a27d9d5df4ad375346",
+      "time_s": 5049.98,
+      "source_teff_K": 5723.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_505.fits",
+      "variable": "lgne",
+      "snapshot": 505,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "c35befbfa602000aaba4eaaf362dfecc21b401303e585ce13e27ab6b236cbb82",
+      "file_sha256": "4ce1679afe57758d1eb2500f4c06fa6fc3a043b6bd401eb9f2d342402c65bf7c",
+      "time_s": 5049.98,
+      "source_teff_K": 5723.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_505.fits",
+      "variable": "lgn1",
+      "snapshot": 505,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "18ed77aee1e3a3235f29e437267764383ddc59210a6d524d977374901ae725b0",
+      "file_sha256": "d73f8cf8931d7bda9f671091ea0a6686395a13cc6291a3efa5afa9e62d59d5c0",
+      "time_s": 5049.98,
+      "source_teff_K": 5723.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_509.fits",
+      "variable": "lgtg",
+      "snapshot": 509,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "bea22933b6d82ad8361f795c9811c66baa76b8336e74039f6f4189f70e798710",
+      "file_sha256": "c36466c03df157ca79857a6330038ecf7d8b23a29218c5b96775b12b4ac5be0b",
+      "time_s": 5089.98,
+      "source_teff_K": 5715.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_509.fits",
+      "variable": "lgne",
+      "snapshot": 509,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e59d43d8a2ac0763def12ea08ca45a7f7652b5bec2e03b07afe9ae42ab906753",
+      "file_sha256": "6bb84ae805a6c51246c7f1eb50fbc47ebf6871fad1ae509defad342a9861b686",
+      "time_s": 5089.98,
+      "source_teff_K": 5715.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_509.fits",
+      "variable": "lgn1",
+      "snapshot": 509,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "13a5a1b88556ffd1633627dd7dd01de96c1d8300bab6762184e004e16fbca709",
+      "file_sha256": "925d7776c13e47796edcba7558037ccb8ef0e1a1a4ffc6a6e7aac67214c7a028",
+      "time_s": 5089.98,
+      "source_teff_K": 5715.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_513.fits",
+      "variable": "lgtg",
+      "snapshot": 513,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "3bcd07a22240d64808a07ea3e60a8f82d63ca5c7ec25e417a8ef5416762a669e",
+      "file_sha256": "7a6876e22e9826bf581d1b5af64ed40ee9aae23a9f1915104f81dd7a5a5cdb10",
+      "time_s": 5129.98,
+      "source_teff_K": 5717.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_513.fits",
+      "variable": "lgne",
+      "snapshot": 513,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "7a309cf17731cef6c81b0f5d789b57a95deac96416145307b23c92cfb2e671e2",
+      "file_sha256": "20566e51e781f10c1152dc0841bff0feadcb29dfc4967e752731dec1568c9be4",
+      "time_s": 5129.98,
+      "source_teff_K": 5717.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_513.fits",
+      "variable": "lgn1",
+      "snapshot": 513,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "361278befcd62d485fb263ff26a51b688dba5c394d66d5ac28b0eff758d1e6c8",
+      "file_sha256": "6cd008a75d357d0fb2cf6ebb17b2a61a81cbe16671a5e16cd7f4505bf5f56f28",
+      "time_s": 5129.98,
+      "source_teff_K": 5717.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_517.fits",
+      "variable": "lgtg",
+      "snapshot": 517,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "0f2eb9fed40ec4a052c823fdc9f567bd8a12d5530e014aecf12dfd531976add8",
+      "file_sha256": "fd306f509cdd4e408a98ea29c4d3bf6e5f4f557bd3313c467b573997a8bd6206",
+      "time_s": 5169.98,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_517.fits",
+      "variable": "lgne",
+      "snapshot": 517,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "6686e33803bc2cf13fc39cd82f1183c3098f845f97336edb56459bb7194fdf9e",
+      "file_sha256": "edbe698db98ca06a881c4fe5578899afc3644fe0f3d4ff1623e8b10c53ce6b5c",
+      "time_s": 5169.98,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_517.fits",
+      "variable": "lgn1",
+      "snapshot": 517,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "da2cd518cb0e2684885e35db365a37a4310d38ca46f113aa8efed29449489d20",
+      "file_sha256": "6a2cf493b03ec3bc2a1eb8344b1951c5001bd2627371b5a5c000bd246f501dee",
+      "time_s": 5169.98,
+      "source_teff_K": 5730.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_521.fits",
+      "variable": "lgtg",
+      "snapshot": 521,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "d571759d1657f5ba20741649767f3ba9a43da111d455eb5e6754bdbb9a888350",
+      "file_sha256": "3f4e8056d444c2fd19388950e8e99918b88e258d78d6b578c4e8fc9d405ed739",
+      "time_s": 5209.98,
+      "source_teff_K": 5752.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_521.fits",
+      "variable": "lgne",
+      "snapshot": 521,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "8c8ecf30c45fac71eb8816709e342ab73910e500181e4b80f1e6cf9944bfc868",
+      "file_sha256": "f455a3789d9695ccba92dbcd3d697347d598379fddcb87e8f2d9b0b68ef973da",
+      "time_s": 5209.98,
+      "source_teff_K": 5752.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_521.fits",
+      "variable": "lgn1",
+      "snapshot": 521,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "614d73e3565aee2549878bf0db6b0b0d07ecc13d0d03669c98d3801d982e6015",
+      "file_sha256": "91f95404ea880f30593935421af315a29c1520d744f7a3dc49fda4ba8b88d187",
+      "time_s": 5209.98,
+      "source_teff_K": 5752.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_525.fits",
+      "variable": "lgtg",
+      "snapshot": 525,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "07c7f1055d4b67b4258113bdf2c8fb6037a2e1a47fe63b917ce28512c20d88ec",
+      "file_sha256": "9835fedc2b896c717eda349ffc7cbe815a630f16943506754e56d32bc4df768e",
+      "time_s": 5249.98,
+      "source_teff_K": 5770.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_525.fits",
+      "variable": "lgne",
+      "snapshot": 525,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "72a8b229d31850cdae4ba8d03d745d969d239fe47ad3198de9bff55e6312caeb",
+      "file_sha256": "4c2e6490a2ce627a83c4f16a495a828d4253d44f14adfd8d97272e32d6c1581e",
+      "time_s": 5249.98,
+      "source_teff_K": 5770.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_525.fits",
+      "variable": "lgn1",
+      "snapshot": 525,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "322d97cd80599d9cb5f64c55cbbcd39fab606f304fbf8c2f0e8959d6d388641a",
+      "file_sha256": "51b87ed8e6fc993ad3277860f3bb887804ced99b0f0621d70e568f31a9a62dd2",
+      "time_s": 5249.98,
+      "source_teff_K": 5770.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_529.fits",
+      "variable": "lgtg",
+      "snapshot": 529,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "ae108d8f28c8723469f4f37ae5cac7f687ec1fe577419c22f2cd8b516abb4ef4",
+      "file_sha256": "36ce607234cf78f1b87acc323ed03f74be2ce883b71edad7aea507195c715f4a",
+      "time_s": 5289.98,
+      "source_teff_K": 5777.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_529.fits",
+      "variable": "lgne",
+      "snapshot": 529,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "4cdb2b9921bdc3f2c2019ac3cd6b119ca6ddb0caa4aa9694a6ac849a2721fc6a",
+      "file_sha256": "d7dcc6a8656524c67ef2abdaecb22740faec230a1560d926c773d7f3a4eecd50",
+      "time_s": 5289.98,
+      "source_teff_K": 5777.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_529.fits",
+      "variable": "lgn1",
+      "snapshot": 529,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "6b9f7be96f12bb0c1f25ad3271b62571a76c46ec27a0aed4714f93f60d6a64a6",
+      "file_sha256": "269f66708b2b3066bff4294d3af8984df75ced24c3cfabac9347f0e89ac82ae0",
+      "time_s": 5289.98,
+      "source_teff_K": 5777.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_533.fits",
+      "variable": "lgtg",
+      "snapshot": 533,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "66fae840ff0c9abfc82288bf78cf6f9467c3c424f0b052e492440436459ad7b4",
+      "file_sha256": "304c8cdfb25e862c8ba2327f7cb020607791ae6474a01d6d5e1d00be9183a143",
+      "time_s": 5329.98,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_533.fits",
+      "variable": "lgne",
+      "snapshot": 533,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "6bbcc45ee41bb9300163829ffb6943c05ba556dcfb49db4b37fef23338d72277",
+      "file_sha256": "7dd10eae0ea88adca6aa7b10bb26b38d9667d42d89bb386c0880252df1d6cbd2",
+      "time_s": 5329.98,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_533.fits",
+      "variable": "lgn1",
+      "snapshot": 533,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "b38a023403ce2f01b9e533cfc501f79e25f334a989f305a027d27adfcd912540",
+      "file_sha256": "1ebda86aa2ee789ef327ab739084e3e22e26633eeb6d8840c0c0bcb3e25c8455",
+      "time_s": 5329.98,
+      "source_teff_K": 5772.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_537.fits",
+      "variable": "lgtg",
+      "snapshot": 537,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "1adb154849cb21ddb005472897a83553703dafcbabaf79d79e616b886384fb4e",
+      "file_sha256": "bed214c736a97b4dccdfd31dc8e7fe41e5cb45ebb00c7bce91b4224143d4e873",
+      "time_s": 5369.98,
+      "source_teff_K": 5757.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_537.fits",
+      "variable": "lgne",
+      "snapshot": 537,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "02ca3533342d3c4cd2165bf2eedcfb19f2974c0933b0d27f920748e579271481",
+      "file_sha256": "dc640a2203a18dc1ba696e26bd62658accd784b2e408c8e55149677979d5c43d",
+      "time_s": 5369.98,
+      "source_teff_K": 5757.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_537.fits",
+      "variable": "lgn1",
+      "snapshot": 537,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "60810e51780918dc69ae814f24c0a0dcad47291b936dfc1fffd50074ab0899af",
+      "file_sha256": "a1875f8a32945a4d1996c77d79d1b4682e20698e3047478cc10bf83a140a0527",
+      "time_s": 5369.98,
+      "source_teff_K": 5757.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_541.fits",
+      "variable": "lgtg",
+      "snapshot": 541,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "a7c8b9f67b358ce1753cffabe54c7ed7d5b7b2ce5c16f863fb6186dc0797b604",
+      "file_sha256": "977a5348e6f99b5bc35fd653861b6e30a9077056ba8de02f0fcbee9b7781efb5",
+      "time_s": 5409.98,
+      "source_teff_K": 5740.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_541.fits",
+      "variable": "lgne",
+      "snapshot": 541,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "da40c13c5099eb5a6bb466b11c0d87a4a4797333263a6d01271c211a0230b1da",
+      "file_sha256": "767eac65ccde6f0ff7f7460f8a533720c25113553776dd5829cb971759043e57",
+      "time_s": 5409.98,
+      "source_teff_K": 5740.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_541.fits",
+      "variable": "lgn1",
+      "snapshot": 541,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "a6f7822792b7fc639be493fff75805a4d8dcc149c6567628f4d555f323bfaa06",
+      "file_sha256": "884a19a9ddb9e7d952f6123f019872ad348fbc960ac53ad23eaf16ed4c2e6c2f",
+      "time_s": 5409.98,
+      "source_teff_K": 5740.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgtg_544.fits",
+      "variable": "lgtg",
+      "snapshot": 544,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "72537be27dd8db2ac76892d6601c963e1fb0509a89fac408b5df165630ba3e39",
+      "file_sha256": "913374db467aeecc0bdbb78559899e5978f59588fc329c5246f12183dc8e70e4",
+      "time_s": 5439.97,
+      "source_teff_K": 5731.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgne_544.fits",
+      "variable": "lgne",
+      "snapshot": 544,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "e631d2ccce33fde3541aef9eefe00bbf3d80ea6852cf51d76ae41d9089a237ac",
+      "file_sha256": "15806a49cad85bdab261ad3da2982e06c12175eb269e9a2b4b1045504a5115de",
+      "time_s": 5439.97,
+      "source_teff_K": 5731.0
+    },
+    {
+      "source": "https://sdc.uio.no/vol/simulations/en024048_hion/atmos/BIFROST_en024048_hion_lgn1_544.fits",
+      "variable": "lgn1",
+      "snapshot": 544,
+      "shape": [
+        75,
+        504,
+        504
+      ],
+      "byte_range": [
+        48788352,
+        124993151
+      ],
+      "download_sha256": "41355ce9e2795495c1a8d2043bcfc3b36436b048cbca530c060f9d6cdd9ed2cc",
+      "file_sha256": "7010f8707eca121cb44ba114473dbdae8d1b097217ddc9a907a9e28e447c56b7",
+      "time_s": 5439.97,
+      "source_teff_K": 5731.0
+    }
+  ],
+  "reference_spectrum": {
+    "source": "https://lasp.colorado.edu/lisird/resources/lasp/hsrs/v2/hybrid_reference_spectrum_1nm_resolution_c2022-11-30_with_unc.nc",
+    "doi": "https://doi.org/10.1029/2022EA002637",
+    "sha256": "84073a2b0fb5088fae75348f9204b8e6894dfccd16ef991303e545fcd966b84f"
+  },
+  "muram": {
+    "dataset": "https://purl.stanford.edu/dv883vb9686",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "intensity": {
+      "url": "https://stacks.stanford.edu/file/dv883vb9686/I_out_every200steps.tar",
+      "sha256": "90c7afc88f93d4092f63152c5aaa3019e51e9b275db14edc2152e5f5bcb0482e",
+      "license": "CC BY 3.0",
+      "citation": "Cheung et al., Nature Astronomy 3,160\u2013166 (2019); online 2018",
+      "doi": "10.1038/s41550-018-0629-3",
+      "archive": "https://purl.stanford.edu/dv883vb9686",
+      "native_grid_km": 192,
+      "dimensions_Mm": [
+        98.304,
+        49.152
+      ],
+      "modifications": "Float32 arrays decoded in documented native layout; only sorted by actual stored timestamps; no generated morphology or dynamics"
+    },
+    "magnetic_records": [
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0270000",
+        "byte_range": [
+          2621968,
+          4194831
+        ],
+        "sha256": "a7545060d4b81c81a7b0b1b45c87a1ce357fe83897cc1e99cb03182db2cd8424",
+        "license": "CC BY 3.0",
+        "time_s": 26729.53515625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0270200",
+        "byte_range": [
+          7865872,
+          9438735
+        ],
+        "sha256": "6aeab6f526f5de1aec660d299dec2ebfdc473831298888d077d82a283559a327",
+        "license": "CC BY 3.0",
+        "time_s": 26747.7109375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0270400",
+        "byte_range": [
+          13109776,
+          14682639
+        ],
+        "sha256": "e503cd564181911545dc00bca1f7e8ad8d26c705542734c0ca6567519a4ab290",
+        "license": "CC BY 3.0",
+        "time_s": 26769.53515625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0270600",
+        "byte_range": [
+          18353680,
+          19926543
+        ],
+        "sha256": "e2b8e130b5577bc5a2e5967448c6ffdb58a9287f305b8958b6afed01df7ebec1",
+        "license": "CC BY 3.0",
+        "time_s": 26791.14453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0270800",
+        "byte_range": [
+          23597584,
+          25170447
+        ],
+        "sha256": "948ee9ad19c3016f22c58c834ff7741a0808c9c370e350434bc999701fe3ca1c",
+        "license": "CC BY 3.0",
+        "time_s": 26812.7265625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0271000",
+        "byte_range": [
+          28841488,
+          30414351
+        ],
+        "sha256": "601fd98c68771dcb60af84afc688c4eb4c022293f31fb6788b80c23fe0bdb94a",
+        "license": "CC BY 3.0",
+        "time_s": 26834.45703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0271200",
+        "byte_range": [
+          34085392,
+          35658255
+        ],
+        "sha256": "e5527dd730bc905b0034ea327dcf6463649b2c3b5a96b92339b9d4df7ad95ac2",
+        "license": "CC BY 3.0",
+        "time_s": 26856.009765625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0271400",
+        "byte_range": [
+          39329296,
+          40902159
+        ],
+        "sha256": "a4a9fadf38acbe7e48dfbd9707b2475997cde3c2bb41c026b76492fe6e6a3ab5",
+        "license": "CC BY 3.0",
+        "time_s": 26877.279296875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0271600",
+        "byte_range": [
+          44573200,
+          46146063
+        ],
+        "sha256": "4be592a61b2041bca0889d5833d2ba1193cf3a611e7d7ca4bbee84641261f74e",
+        "license": "CC BY 3.0",
+        "time_s": 26898.853515625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0271800",
+        "byte_range": [
+          49817104,
+          51389967
+        ],
+        "sha256": "dee5ea0bc6d10e92785b3077ee2f3675cb749605183397a3b253425833a9ee2f",
+        "license": "CC BY 3.0",
+        "time_s": 26920.720703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0272000",
+        "byte_range": [
+          55061008,
+          56633871
+        ],
+        "sha256": "e90a7224a9b204c803a0b9bca6b11aade22f9b70759f29bbc190b7aacf5dc2b8",
+        "license": "CC BY 3.0",
+        "time_s": 26942.931640625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0272200",
+        "byte_range": [
+          60304912,
+          61877775
+        ],
+        "sha256": "93d0f8808570749ee3a7ba0e4787e61a221dd55c7b261aff7f0762ae5a0ff690",
+        "license": "CC BY 3.0",
+        "time_s": 26963.70703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0272400",
+        "byte_range": [
+          65548816,
+          67121679
+        ],
+        "sha256": "9f3b9f99f69e127cc30f828254d36cf2cdfcd931d7175ffe4946c14edb70bc12",
+        "license": "CC BY 3.0",
+        "time_s": 26980.732421875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0272600",
+        "byte_range": [
+          70792720,
+          72365583
+        ],
+        "sha256": "877a314a9bcb90639913f8fff72b9b582a0ccff584eae781746fa293dbf4ad45",
+        "license": "CC BY 3.0",
+        "time_s": 26994.775390625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0272800",
+        "byte_range": [
+          76036624,
+          77609487
+        ],
+        "sha256": "a72b382f8c2e460aa40d2baeea7a822b64c07be70933ff3b255898f57197f4ce",
+        "license": "CC BY 3.0",
+        "time_s": 27009.505859375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0273000",
+        "byte_range": [
+          81280528,
+          82853391
+        ],
+        "sha256": "9c39e874859d3642e1e39895630848a6c2f081af4ee05c7fe1cbae53d2c16004",
+        "license": "CC BY 3.0",
+        "time_s": 27025.7421875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0273200",
+        "byte_range": [
+          86524432,
+          88097295
+        ],
+        "sha256": "83cfbea7cafe4ca915637b935a075e0da8e0c03b13ca132c6a4387c1130071c5",
+        "license": "CC BY 3.0",
+        "time_s": 27042.845703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0273400",
+        "byte_range": [
+          91768336,
+          93341199
+        ],
+        "sha256": "f4ab57faa33f713504d628e4263264ac19ddcd3548ae567cc8a4ce48d172d31d",
+        "license": "CC BY 3.0",
+        "time_s": 27057.490234375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0273600",
+        "byte_range": [
+          97012240,
+          98585103
+        ],
+        "sha256": "170b03e4053278d273581696af111c2688f026dbb17294c6522e73f60c7977f9",
+        "license": "CC BY 3.0",
+        "time_s": 27070.6484375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0273800",
+        "byte_range": [
+          102256144,
+          103829007
+        ],
+        "sha256": "6da040db8fc9847dba5d4446e18a591a94b9d669e7873586445a5f672bd27ce3",
+        "license": "CC BY 3.0",
+        "time_s": 27083.87890625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0274000",
+        "byte_range": [
+          107500048,
+          109072911
+        ],
+        "sha256": "428395b70b61ee03221a88efe9fc29d6c62d2ed86face04e3e167dcd45d73288",
+        "license": "CC BY 3.0",
+        "time_s": 27097.05859375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0274200",
+        "byte_range": [
+          112743952,
+          114316815
+        ],
+        "sha256": "808c4fd13358d0a0025b972f40bdcdf436f664c06c67d090e8bfb9967be9830e",
+        "license": "CC BY 3.0",
+        "time_s": 27110.23046875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0274400",
+        "byte_range": [
+          117987856,
+          119560719
+        ],
+        "sha256": "bc3488f2a99e98a48f6132bd83c0ded49c9c7a6f5d4a5a0c64d927a02c42bee9",
+        "license": "CC BY 3.0",
+        "time_s": 27123.39453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0274600",
+        "byte_range": [
+          123231760,
+          124804623
+        ],
+        "sha256": "78ecdd7ab40fa42a500b3f59f9b4fb9450d46beddb6562e560137ef4a0040c7d",
+        "license": "CC BY 3.0",
+        "time_s": 27136.3828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0274800",
+        "byte_range": [
+          128475664,
+          130048527
+        ],
+        "sha256": "275d087b678fdbcc21a4033ed2340d1ff4e7bcaf9cdda0164c62224f570d9532",
+        "license": "CC BY 3.0",
+        "time_s": 27148.5703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0275000",
+        "byte_range": [
+          133719568,
+          135292431
+        ],
+        "sha256": "5aaa280e26f165c66c5c14c9b48d4bd3d5d7bd7c78a2a8fb4e4362ea7403290e",
+        "license": "CC BY 3.0",
+        "time_s": 27160.720703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0275200",
+        "byte_range": [
+          138963472,
+          140536335
+        ],
+        "sha256": "05d82dd48bf2f7cfdfe96df819d50629d48fae7a01f2da0d4a6073527eed654c",
+        "license": "CC BY 3.0",
+        "time_s": 27173.064453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0275400",
+        "byte_range": [
+          144207376,
+          145780239
+        ],
+        "sha256": "fadb0ac7273289f906356843e104d5016bbd02d7cea7df796ab27973cdd4f263",
+        "license": "CC BY 3.0",
+        "time_s": 27185.8359375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0275600",
+        "byte_range": [
+          149451280,
+          151024143
+        ],
+        "sha256": "f772596d41103e413cb7a5f24f4eda2a940be63d44388a106b805a0962b6cff9",
+        "license": "CC BY 3.0",
+        "time_s": 27199.263671875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0275800",
+        "byte_range": [
+          154695184,
+          156268047
+        ],
+        "sha256": "5577ec116aff65bf5a29fa9dcc845e2c3587a329b7ae98a2be0447ad9ecc63f9",
+        "license": "CC BY 3.0",
+        "time_s": 27213.48828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0276000",
+        "byte_range": [
+          159939088,
+          161511951
+        ],
+        "sha256": "e5463fa93e71545b3c0a737ea52379f1fabadc1d7e8bcff65eff5800394f1802",
+        "license": "CC BY 3.0",
+        "time_s": 27228.056640625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0276200",
+        "byte_range": [
+          165182992,
+          166755855
+        ],
+        "sha256": "ba3af185cee8b70981d68a6ce0b00b4c047a33aa1ec60b46f2bd41199cc52c31",
+        "license": "CC BY 3.0",
+        "time_s": 27243.0078125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0276400",
+        "byte_range": [
+          170426896,
+          171999759
+        ],
+        "sha256": "afc47cbc41eba21fb26480550747dd80848aeab2ea96d033750480e267bdd4d1",
+        "license": "CC BY 3.0",
+        "time_s": 27259.056640625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0276600",
+        "byte_range": [
+          175670800,
+          177243663
+        ],
+        "sha256": "d037bf3d30054c8f424417572580275317a8dd5a112487c265cea84c33c38e38",
+        "license": "CC BY 3.0",
+        "time_s": 27275.283203125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0276800",
+        "byte_range": [
+          180914704,
+          182487567
+        ],
+        "sha256": "4727d25032074fee3fbb4d1548609f861bff8a60af614766f01884424f1a6214",
+        "license": "CC BY 3.0",
+        "time_s": 27291.484375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0277000",
+        "byte_range": [
+          186158608,
+          187731471
+        ],
+        "sha256": "6615e46615ea40cd0b05090dc42dc43f9f9f80c23291415097671ea548e41ae0",
+        "license": "CC BY 3.0",
+        "time_s": 27307.90234375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0277200",
+        "byte_range": [
+          191402512,
+          192975375
+        ],
+        "sha256": "43bf2d251a0ba7319abbdc83b1f2ccbea491b33d4075fd41410667b2ff43b00d",
+        "license": "CC BY 3.0",
+        "time_s": 27324.376953125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0277400",
+        "byte_range": [
+          196646416,
+          198219279
+        ],
+        "sha256": "93ec171aabb2e8c56e440dddc961f7780750ffd445ffe14dfd0f227a57cc8216",
+        "license": "CC BY 3.0",
+        "time_s": 27340.8828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0277600",
+        "byte_range": [
+          201890320,
+          203463183
+        ],
+        "sha256": "7194806ad1ee648cc26cc20fcf9d404375590120d2a6e7a51ed7e850512e784b",
+        "license": "CC BY 3.0",
+        "time_s": 27357.380859375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0277800",
+        "byte_range": [
+          207134224,
+          208707087
+        ],
+        "sha256": "9dc19f9065be8eb093d3bf52cc37b4210bfb3ccd64fdf76806643a02ceb1ea5c",
+        "license": "CC BY 3.0",
+        "time_s": 27373.8828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0278000",
+        "byte_range": [
+          212378128,
+          213950991
+        ],
+        "sha256": "0467e6e890b4050abe1a6b4c02977fa45ac79916313f94c67c6b246f8e455ffa",
+        "license": "CC BY 3.0",
+        "time_s": 27390.36328125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0278200",
+        "byte_range": [
+          217622032,
+          219194895
+        ],
+        "sha256": "281c3f81dbe8ea39b7f035d70d7e8bd4cd969b8565df9749c2e602f6ade8b5de",
+        "license": "CC BY 3.0",
+        "time_s": 27406.828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0278400",
+        "byte_range": [
+          222865936,
+          224438799
+        ],
+        "sha256": "8fb28ce723385ce782e2eda3d458710d870dc585007f253c4e07e28abda97b63",
+        "license": "CC BY 3.0",
+        "time_s": 27423.291015625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0278600",
+        "byte_range": [
+          228109840,
+          229682703
+        ],
+        "sha256": "193fba5e19dd35b8a4b14042b3632897cab83c889ac004e982c41ddefc402f09",
+        "license": "CC BY 3.0",
+        "time_s": 27439.71875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0278800",
+        "byte_range": [
+          233353744,
+          234926607
+        ],
+        "sha256": "b985da0977205685fa53ad5389437ed6d0da0427c416c7bbb47a837813bb4dd0",
+        "license": "CC BY 3.0",
+        "time_s": 27456.35546875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0279000",
+        "byte_range": [
+          238597648,
+          240170511
+        ],
+        "sha256": "5cc248142996aba16111cb6f16446ac51d1282f519305edda29d284c900dfdb4",
+        "license": "CC BY 3.0",
+        "time_s": 27473.759765625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0279200",
+        "byte_range": [
+          243841552,
+          245414415
+        ],
+        "sha256": "f0f45fb7768f743402501e1217255c90b9bd72683af945831c0e8851479f1aa5",
+        "license": "CC BY 3.0",
+        "time_s": 27492.05859375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0279400",
+        "byte_range": [
+          249085456,
+          250658319
+        ],
+        "sha256": "ca68d1fa532f2ed87f54dfff72a47a07bcbfff9ebad09d0371df5f44adc7af24",
+        "license": "CC BY 3.0",
+        "time_s": 27511.287109375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0279600",
+        "byte_range": [
+          254329360,
+          255902223
+        ],
+        "sha256": "a8f720fd4b8748a4f0cab9eb410c65fab4d4a66f0f65a880bfcd8bcd5de38581",
+        "license": "CC BY 3.0",
+        "time_s": 27531.033203125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0279800",
+        "byte_range": [
+          259573264,
+          261146127
+        ],
+        "sha256": "a3317919c785c44d8a6a0d4c41d31b14b9d54cfef41190edbc3c0bbb5b91c83b",
+        "license": "CC BY 3.0",
+        "time_s": 27551.150390625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0280000",
+        "byte_range": [
+          264817168,
+          266390031
+        ],
+        "sha256": "fd767481d300a89cfc5271665ce3eb88cd4ce0ebeb2704804a7c2e045a54276b",
+        "license": "CC BY 3.0",
+        "time_s": 27571.39453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0280200",
+        "byte_range": [
+          270061072,
+          271633935
+        ],
+        "sha256": "5ea1d96469d995df1db81841a91122eaee7fc44dbf45d2cb8bbaa144f6314bb6",
+        "license": "CC BY 3.0",
+        "time_s": 27591.171875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0280400",
+        "byte_range": [
+          275304976,
+          276877839
+        ],
+        "sha256": "de006cc6defe6b4b428561d1c80b01bd1e5c527cb9a3cffbc6a6034c521030c5",
+        "license": "CC BY 3.0",
+        "time_s": 27610.3125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0280600",
+        "byte_range": [
+          280548880,
+          282121743
+        ],
+        "sha256": "c8048fc455b019bd3b77d9e9e04536602ff94c5df84e68091bd8897acdd1ffd4",
+        "license": "CC BY 3.0",
+        "time_s": 27629.048828125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0280800",
+        "byte_range": [
+          285792784,
+          287365647
+        ],
+        "sha256": "1c62ac5f0a6bd933d39cae7b6ef367479e56a10182c1b05af354690a3eb06946",
+        "license": "CC BY 3.0",
+        "time_s": 27647.505859375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0281000",
+        "byte_range": [
+          291036688,
+          292609551
+        ],
+        "sha256": "94698f1abd10f0bcbe342bafcba12c856afe7d5d9c8b8f3fbd2c4d51ca5ff060",
+        "license": "CC BY 3.0",
+        "time_s": 27666.115234375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0281200",
+        "byte_range": [
+          296280592,
+          297853455
+        ],
+        "sha256": "e73450b97385e4e9e9daca9723c0030d305f43bd97bb3123798b786b07351a80",
+        "license": "CC BY 3.0",
+        "time_s": 27684.685546875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0281400",
+        "byte_range": [
+          301524496,
+          303097359
+        ],
+        "sha256": "03804cdd27cf027536036a689747d650a17fa690c27f91a76a0e8b419670808e",
+        "license": "CC BY 3.0",
+        "time_s": 27703.205078125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0281600",
+        "byte_range": [
+          306768400,
+          308341263
+        ],
+        "sha256": "bb6850895d8a978afc5e95ccb19fe65c50cf470a9f9e2dcc554f87424630f8a3",
+        "license": "CC BY 3.0",
+        "time_s": 27721.78125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0281800",
+        "byte_range": [
+          312012304,
+          313585167
+        ],
+        "sha256": "105baecfbca9a18759e1155501fd77a7f01ea0813125c86e4e6a9e3f654823db",
+        "license": "CC BY 3.0",
+        "time_s": 27740.611328125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0282000",
+        "byte_range": [
+          317256208,
+          318829071
+        ],
+        "sha256": "bba0087b9b13f4caa97e3d713fca400b44ecd71c73a52e85f3b09b4cf248f4db",
+        "license": "CC BY 3.0",
+        "time_s": 27759.1796875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0282200",
+        "byte_range": [
+          322500112,
+          324072975
+        ],
+        "sha256": "c983e1ace139314e9a380942f9c22467b013719c1b08a1da6098be564a9fa0d5",
+        "license": "CC BY 3.0",
+        "time_s": 27777.39453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0282400",
+        "byte_range": [
+          327744016,
+          329316879
+        ],
+        "sha256": "4a64c980d9012d98e14807c5aba0efc05ca66704f926cfe651311697ed5ae780",
+        "license": "CC BY 3.0",
+        "time_s": 27796.412109375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0282600",
+        "byte_range": [
+          332987920,
+          334560783
+        ],
+        "sha256": "9e2b702e67a60a685cfd96c0763c7bbdb8f0ad09684eeb5d93dfe565740cc997",
+        "license": "CC BY 3.0",
+        "time_s": 27815.59375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0282800",
+        "byte_range": [
+          338231824,
+          339804687
+        ],
+        "sha256": "0c4bffae317bf56ccedb81087895a14af721b4260fb7535df3f003c10f0bff2e",
+        "license": "CC BY 3.0",
+        "time_s": 27834.1640625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0283000",
+        "byte_range": [
+          343475728,
+          345048591
+        ],
+        "sha256": "b2638325e8cbb06794f8a0062241e4b40f93282aa69b9a4adbd6861cb2804900",
+        "license": "CC BY 3.0",
+        "time_s": 27852.029296875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0283200",
+        "byte_range": [
+          348719632,
+          350292495
+        ],
+        "sha256": "98b1b3e9df8a641ac4ee80af2e8b2357a3cd040b173dc08807bc434b14076bb7",
+        "license": "CC BY 3.0",
+        "time_s": 27870.080078125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0283400",
+        "byte_range": [
+          353963536,
+          355536399
+        ],
+        "sha256": "03e66e5d716427cc2b8506e434d8d1f9ff7175e85f870bdcfbbd41a6058bd363",
+        "license": "CC BY 3.0",
+        "time_s": 27888.494140625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0283600",
+        "byte_range": [
+          359207440,
+          360780303
+        ],
+        "sha256": "09a5d823f96fca5cc6a0dbdb5baf0cfd80980b7c3f8dd849159854cc8ecee066",
+        "license": "CC BY 3.0",
+        "time_s": 27906.392578125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0283800",
+        "byte_range": [
+          364451344,
+          366024207
+        ],
+        "sha256": "7d7318a71e582696458a186ea402b9b328dc6fae1a8a08865f99fdb75836166c",
+        "license": "CC BY 3.0",
+        "time_s": 27924.908203125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0284000",
+        "byte_range": [
+          369695248,
+          371268111
+        ],
+        "sha256": "4fa93f72b7ab89d35bed3ae7b017800884319e528f7b38e651866c43e9b30a0d",
+        "license": "CC BY 3.0",
+        "time_s": 27943.529296875,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0284200",
+        "byte_range": [
+          374939152,
+          376512015
+        ],
+        "sha256": "e63f4bca268003874cff777f0a416f54a943f737c857456eee2dc4729eba295f",
+        "license": "CC BY 3.0",
+        "time_s": 27962.439453125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0284400",
+        "byte_range": [
+          380183056,
+          381755919
+        ],
+        "sha256": "a791d29df1057fad58fdce65d47acd15aa89f4b3e01816f7a191a1432d416965",
+        "license": "CC BY 3.0",
+        "time_s": 27981.3984375,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0284600",
+        "byte_range": [
+          385426960,
+          386999823
+        ],
+        "sha256": "ceff515d6b42eb32c9a53d2a1cd75ff7eb4485eac4fcc5cf392be81134b240be",
+        "license": "CC BY 3.0",
+        "time_s": 27999.908203125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0284800",
+        "byte_range": [
+          390670864,
+          392243727
+        ],
+        "sha256": "444262d3eefd59c609e2376009521d0182d873ab87372b46976f2db6a3a0cc59",
+        "license": "CC BY 3.0",
+        "time_s": 28017.470703125,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      },
+      {
+        "url": "https://stacks.stanford.edu/file/dv883vb9686/tau_slices_every200steps.tar",
+        "member": "tau_slice_0.100.0285000",
+        "byte_range": [
+          395914768,
+          397487631
+        ],
+        "sha256": "2015bc0daef0882015acf8f0272158736d1167c5b837c9c404bd1ba46017a11f",
+        "license": "CC BY 3.0",
+        "time_s": 28034.56640625,
+        "field_order": "bx, vertical bz, horizontal by in archived planes 5,6,7; multiplied by sqrt(4 pi) to gauss"
+      }
+    ]
+  }
+}

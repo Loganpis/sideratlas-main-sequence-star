@@ -1,0 +1,22 @@
+{
+  "version": "3.1.0",
+  "stage": "complete",
+  "duration_s": 32,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 960,
+  "camera_orbits": 4,
+  "seconds_per_orbit": 8,
+  "source_clock_resets": false,
+  "reused_calculated_physics": true,
+  "physical_evolution_s": 640,
+  "video": "output/sideratlas-no004-golden-orbit-32s.mp4",
+  "video_sha256": "ac01415be0eea40d72d410541e16a3b52d12a1bae85bb1ed7a1fed38fb8484c4",
+  "caption": "instagram-caption.text",
+  "science": "docs/PHYSICS.md",
+  "github_published": true,
+  "scope": "Existing local radiation-MHD photospheres and approximate C IV radiation from a finite-depth 2.5D reconstruction; fixed golden grading, contrast and imaging enhancements disclosed",
+  "repository_url": "https://github.com/Loganpis/sideratlas-main-sequence-star",
+  "release_url": "https://github.com/Loganpis/sideratlas-main-sequence-star/releases/tag/v3.1.0"
+}
